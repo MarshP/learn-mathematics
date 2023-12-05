@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <title>Arithmetic</title>
+  <base href="../">
+  <meta id="root-path" root-path="../">
+
+  <link rel="icon" sizes="96x96" href="https://publish-01.obsidian.md/access/f786db9fac45774fa4f0d8112e232d67/favicon-96x96.png">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=1.0, maximum-scale=5.0">
+  <meta charset="UTF-8">
+  <script src="https://code.iconify.design/iconify-icon/1.0.3/iconify-icon.min.js"></script>
+
+  <link rel="stylesheet" href="lib/styles/obsidian-styles.css">
+  <link rel="stylesheet" href="lib/styles/theme.css">
+  <link rel="stylesheet" href="lib/styles/plugin-styles.css">
+  <link rel="stylesheet" href="lib/styles/snippets.css">
+  <style> </style>
+
+
+  <!-- Graph View Data -->
+  <script>
+    let nodes = {
+      "nodeCount": 26,
+      "linkCount": 37,
+      "radii": [7, 6.673469387755102, 6.4375, 4.855867346938775, 4.855867346938775, 4.855867346938775, 4.855867346938775, 4.855867346938775, 4.855867346938775, 4.855867346938775, 4.855867346938775, 4.301020408163265, 4.301020408163265, 4.301020408163265, 4.301020408163265, 4.301020408163265, 4.301020408163265, 3.6823979591836737, 3.6823979591836737, 3.6823979591836737, 3.6823979591836737, 3.6823979591836737, 3.6823979591836737, 3.6823979591836737, 3, 3],
+      "labels": ["Pre-algebra", "index", "U.S Maths Education", "Properties of multiplication", "Properties of division", "Properties of addition", "Finding the Least Common Multiple", "Finding the Greatest Common Divisor", "Algebra I", "Arithmetic", "About this Vault", "Prime factorisation example", "Long division", "Dividing Decimals", "Adding & Subtracting Fractions", "Resources and Materials", "Basic Geometry", "Symbols", "Multiplying Fractions", "Exponents with a negative base", "Divisibility rules for 2 - 12", "Dividing Fractions", "Linear Equations", "Example Syllabus -  MIT BSc Pure Mathematics", "Notes to Write Up", "LaTeX Scratchpad"],
+      "paths": ["secondary/pre-algebra/pre-algebra.html", "index.html", "u.s-maths-education.html", "secondary/pre-algebra/properties-of-multiplication.html", "secondary/pre-algebra/properties-of-division.html", "secondary/pre-algebra/properties-of-addition.html", "secondary/pre-algebra/finding-the-least-common-multiple.html", "secondary/pre-algebra/finding-the-greatest-common-divisor.html", "secondary/algebra-i/algebra-i.html", "primary/arithmetic.html", "about-this-vault.html", "secondary/pre-algebra/prime-factorisation-example.html", "secondary/pre-algebra/long-division.html", "secondary/pre-algebra/dividing-decimals.html", "secondary/pre-algebra/adding-&-subtracting-fractions.html", "resources-and-materials.html", "primary/basic-geometry.html", "symbols.html", "secondary/pre-algebra/multiplying-fractions.html", "secondary/pre-algebra/exponents-with-a-negative-base.html", "secondary/pre-algebra/divisibility-rules-for-2-12.html", "secondary/pre-algebra/dividing-fractions.html", "secondary/algebra-i/linear-equations.html", "example-syllabus-mit-bsc-pure-mathematics.html", "notes-to-write-up.html", "latex-scratchpad.html"],
+      "linkSources": [10, 10, 8, 14, 13, 7, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 3, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1],
+      "linkTargets": [15, 2, 22, 6, 12, 11, 7, 9, 5, 3, 4, 12, 19, 20, 11, 7, 18, 21, 6, 14, 13, 3, 5, 5, 9, 16, 0, 8, 23, 10, 15, 2, 9, 16, 0, 8, 17]
+    };
+    let attractionForce = 1;
+    let linkLength = 10;
+    let repulsionForce = 150;
+    let centralForce = 3;
+    let edgePruning = 100;
+  </script>
+
+  <script type="module" src="lib/scripts/graph_view.js"></script>
+
+  <script src="lib/scripts/graph_wasm.js"></script>
+
+  <script src="lib/scripts/tinycolor.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pixi.js/7.2.4/pixi.min.js" integrity="sha512-Ch/O6kL8BqUwAfCF7Ie5SX1Hin+BJgYH4pNjRqXdTEqMsis1TUYg+j6nnI9uduPjGaj7DN4UKCZgpvoExt6dkw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+  <script src="lib/scripts/webpage.js"></script>
+
+</head>
+
+<body class="theme-dark mod-windows is-frameless obsidian-app show-inline-title show-view-header" style="--zoom-factor: 1; --font-text-size: 16px; --line-width: 50em; --line-width-adaptive: 50em; --file-line-width: 50em; --content-width: 500em; --sidebar-width: 25em; --collapse-arrow-size: 0.4em; --tree-horizontal-spacing: 1em; --tree-vertical-spacing: 0.5em; --sidebar-margin: 12px;">
+  <div class="webpage-container">
+    <div class="sidebar-left sidebar">
+      <div class="sidebar-content">
+        <div><label class="theme-toggle-container" for="theme_toggle"><input class="theme-toggle-input" type="checkbox" id="theme_toggle">
+            <div class="toggle-background"></div>
+          </label></div>
+        <div class="tree-container file-tree mod-nav-indicator" data-depth="0">
+          <div class="tree-header"><span class="sidebar-section-header">Mathematics</span><button class="clickable-icon collapse-tree-button is-collapsed"><iconify-icon icon="ph:arrows-in-line-horizontal-bold" width="18px" height="18px" rotate="90deg" color="currentColor"></iconify-icon></button></div>
+          <div class="tree-scroll-area">
+            <div class="tree-item mod-tree-folder mod-collapsible is-collapsed" data-depth="1">
+              <div class="tree-item-contents">
+                <div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                    <path d="M3 8L12 17L21 8"></path>
+                  </svg></div><a class="tree-item-link" href="primary"><span class="tree-item-title">Primary</span></a>
+              </div>
+              <div class="tree-item-children">
+                <div class="tree-item mod-tree-file" data-depth="2">
+                  <div class="tree-item-contents"><a class="tree-item-link" href="primary/arithmetic.html"><span class="tree-item-title">Arithmetic</span></a></div>
+                  <div class="tree-item-children"></div>
+                </div>
+                <div class="tree-item mod-tree-file" data-depth="2">
+                  <div class="tree-item-contents"><a class="tree-item-link" href="primary/basic-geometry.html"><span class="tree-item-title">Basic Geometry</span></a></div>
+                  <div class="tree-item-children"></div>
+                </div>
+              </div>
+            </div>
+            <div class="tree-item mod-tree-folder mod-collapsible is-collapsed" data-depth="1">
+              <div class="tree-item-contents">
+                <div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                    <path d="M3 8L12 17L21 8"></path>
+                  </svg></div><a class="tree-item-link" href="secondary"><span class="tree-item-title">Secondary</span></a>
+              </div>
+              <div class="tree-item-children">
+                <div class="tree-item mod-tree-folder mod-collapsible is-collapsed" data-depth="2">
+                  <div class="tree-item-contents">
+                    <div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                        <path d="M3 8L12 17L21 8"></path>
+                      </svg></div><a class="tree-item-link" href="secondary/algebra-i"><span class="tree-item-title">Algebra I</span></a>
+                  </div>
+                  <div class="tree-item-children">
+                    <div class="tree-item mod-tree-file" data-depth="3">
+                      <div class="tree-item-contents"><a class="tree-item-link" href="secondary/algebra-i/algebra-i.html"><span class="tree-item-title">Algebra I</span></a></div>
+                      <div class="tree-item-children"></div>
+                    </div>
+                    <div class="tree-item mod-tree-file" data-depth="3">
+                      <div class="tree-item-contents"><a class="tree-item-link" href="secondary/algebra-i/linear-equations.html"><span class="tree-item-title">Linear Equations</span></a></div>
+                      <div class="tree-item-children"></div>
+                    </div>
+                  </div>
+                </div>
+                <div class="tree-item mod-tree-folder mod-collapsible is-collapsed" data-depth="2">
+                  <div class="tree-item-contents">
+                    <div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                        <path d="M3 8L12 17L21 8"></path>
+                      </svg></div><a class="tree-item-link" href="secondary/pre-algebra"><span class="tree-item-title">Pre-algebra</span></a>
+                  </div>
+                  <div class="tree-item-children">
+                    <div class="tree-item mod-tree-file" data-depth="3">
+                      <div class="tree-item-contents"><a class="tree-item-link" href="secondary/pre-algebra/adding-&amp;-subtracting-fractions.html"><span class="tree-item-title">Adding &amp; Subtracting Fractions</span></a></div>
+                      <div class="tree-item-children"></div>
+                    </div>
+                    <div class="tree-item mod-tree-file" data-depth="3">
+                      <div class="tree-item-contents"><a class="tree-item-link" href="secondary/pre-algebra/dividing-decimals.html"><span class="tree-item-title">Dividing Decimals</span></a></div>
+                      <div class="tree-item-children"></div>
+                    </div>
+                    <div class="tree-item mod-tree-file" data-depth="3">
+                      <div class="tree-item-contents"><a class="tree-item-link" href="secondary/pre-algebra/dividing-fractions.html"><span class="tree-item-title">Dividing Fractions</span></a></div>
+                      <div class="tree-item-children"></div>
+                    </div>
+                    <div class="tree-item mod-tree-file" data-depth="3">
+                      <div class="tree-item-contents"><a class="tree-item-link" href="secondary/pre-algebra/divisibility-rules-for-2-12.html"><span class="tree-item-title">Divisibility rules for 2 - 12</span></a></div>
+                      <div class="tree-item-children"></div>
+                    </div>
+                    <div class="tree-item mod-tree-file" data-depth="3">
+                      <div class="tree-item-contents"><a class="tree-item-link" href="secondary/pre-algebra/exponents-with-a-negative-base.html"><span class="tree-item-title">Exponents with a negative base</span></a></div>
+                      <div class="tree-item-children"></div>
+                    </div>
+                    <div class="tree-item mod-tree-file" data-depth="3">
+                      <div class="tree-item-contents"><a class="tree-item-link" href="secondary/pre-algebra/finding-the-greatest-common-divisor.html"><span class="tree-item-title">Finding the Greatest Common Divisor</span></a></div>
+                      <div class="tree-item-children"></div>
+                    </div>
+                    <div class="tree-item mod-tree-file" data-depth="3">
+                      <div class="tree-item-contents"><a class="tree-item-link" href="secondary/pre-algebra/finding-the-least-common-multiple.html"><span class="tree-item-title">Finding the Least Common Multiple</span></a></div>
+                      <div class="tree-item-children"></div>
+                    </div>
+                    <div class="tree-item mod-tree-file" data-depth="3">
+                      <div class="tree-item-contents"><a class="tree-item-link" href="secondary/pre-algebra/long-division.html"><span class="tree-item-title">Long division</span></a></div>
+                      <div class="tree-item-children"></div>
+                    </div>
+                    <div class="tree-item mod-tree-file" data-depth="3">
+                      <div class="tree-item-contents"><a class="tree-item-link" href="secondary/pre-algebra/multiplying-fractions.html"><span class="tree-item-title">Multiplying Fractions</span></a></div>
+                      <div class="tree-item-children"></div>
+                    </div>
+                    <div class="tree-item mod-tree-file" data-depth="3">
+                      <div class="tree-item-contents"><a class="tree-item-link" href="secondary/pre-algebra/pre-algebra.html"><span class="tree-item-title">Pre-algebra</span></a></div>
+                      <div class="tree-item-children"></div>
+                    </div>
+                    <div class="tree-item mod-tree-file" data-depth="3">
+                      <div class="tree-item-contents"><a class="tree-item-link" href="secondary/pre-algebra/prime-factorisation-example.html"><span class="tree-item-title">Prime factorisation example</span></a></div>
+                      <div class="tree-item-children"></div>
+                    </div>
+                    <div class="tree-item mod-tree-file" data-depth="3">
+                      <div class="tree-item-contents"><a class="tree-item-link" href="secondary/pre-algebra/properties-of-addition.html"><span class="tree-item-title">Properties of addition</span></a></div>
+                      <div class="tree-item-children"></div>
+                    </div>
+                    <div class="tree-item mod-tree-file" data-depth="3">
+                      <div class="tree-item-contents"><a class="tree-item-link" href="secondary/pre-algebra/properties-of-division.html"><span class="tree-item-title">Properties of division</span></a></div>
+                      <div class="tree-item-children"></div>
+                    </div>
+                    <div class="tree-item mod-tree-file" data-depth="3">
+                      <div class="tree-item-contents"><a class="tree-item-link" href="secondary/pre-algebra/properties-of-multiplication.html"><span class="tree-item-title">Properties of multiplication</span></a></div>
+                      <div class="tree-item-children"></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="tree-item mod-tree-file" data-depth="1">
+              <div class="tree-item-contents"><a class="tree-item-link" href="about-this-vault.html"><span class="tree-item-title">About this Vault</span></a></div>
+              <div class="tree-item-children"></div>
+            </div>
+            <div class="tree-item mod-tree-file" data-depth="1">
+              <div class="tree-item-contents"><a class="tree-item-link" href="example-syllabus-mit-bsc-pure-mathematics.html"><span class="tree-item-title">Example Syllabus - MIT BSc Pure Mathematics</span></a></div>
+              <div class="tree-item-children"></div>
+            </div>
+            <div class="tree-item mod-tree-file" data-depth="1">
+              <div class="tree-item-contents"><a class="tree-item-link" href="index.html"><span class="tree-item-title">index</span></a></div>
+              <div class="tree-item-children"></div>
+            </div>
+            <div class="tree-item mod-tree-file" data-depth="1">
+              <div class="tree-item-contents"><a class="tree-item-link" href="latex-scratchpad.html"><span class="tree-item-title">LaTeX Scratchpad</span></a></div>
+              <div class="tree-item-children"></div>
+            </div>
+            <div class="tree-item mod-tree-file" data-depth="1">
+              <div class="tree-item-contents"><a class="tree-item-link" href="notes-to-write-up.html"><span class="tree-item-title">Notes to Write Up</span></a></div>
+              <div class="tree-item-children"></div>
+            </div>
+            <div class="tree-item mod-tree-file" data-depth="1">
+              <div class="tree-item-contents"><a class="tree-item-link" href="resources-and-materials.html"><span class="tree-item-title">Resources and Materials</span></a></div>
+              <div class="tree-item-children"></div>
+            </div>
+            <div class="tree-item mod-tree-file" data-depth="1">
+              <div class="tree-item-contents"><a class="tree-item-link" href="symbols.html"><span class="tree-item-title">Symbols</span></a></div>
+              <div class="tree-item-children"></div>
+            </div>
+            <div class="tree-item mod-tree-file" data-depth="1">
+              <div class="tree-item-contents"><a class="tree-item-link" href="u.s-maths-education.html"><span class="tree-item-title">U.S Maths Education</span></a></div>
+              <div class="tree-item-children"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="document-container">
+      <div class="markdown-preview-view markdown-rendered node-insert-event is-readable-line-width allow-fold-headings show-indentation-guide allow-fold-lists" tabindex="-1" style="tab-size: 4;">
+        <style id="MJX-CHTML-styles"></style>
+        <div class="markdown-preview-sizer markdown-preview-section" style="min-height: 568px; padding-bottom: ; padding-top: var(--file-margins); padding-right: var(--file-margins); padding-left: var(--file-margins); width: 100%; position: absolute;">
+          <div class="markdown-preview-pusher" style="width: 1px; height: 0.1px; margin-bottom: 0px;"></div>
+          <div class="mod-header">
+            <div class="inline-title" data-heading="Arithmetic" id="Arithmetic" style="display: block;">Arithmetic</div>
+          </div>
+          <div>
+            <pre class="frontmatter language-yaml" tabindex="0" style="display: none;"><code class="language-yaml is-loaded"><span class="token key atrule">tags</span><span class="token punctuation">:</span>
+  <span class="token punctuation">-</span> primary<span class="token punctuation">-</span>level
+  <span class="token punctuation">-</span> arithmetic</code><button class="copy-code-button">Copy</button></pre>
+          </div>
+          <div>
+            <p><strong>My notes:</strong>
+              <a rel="noopener" class="external-link" href="https://photos.app.goo.gl/AXQGA9HHjvX8SBP58" target="_blank">https://photos.app.goo.gl/AXQGA9HHjvX8SBP58</a>
+            </p>
+          </div>
+          <div>
+            <p><strong>Course:</strong>
+              <a rel="noopener" class="external-link" href="https://www.khanacademy.org/math/arithmetic" target="_blank">https://www.khanacademy.org/math/arithmetic</a>
+            </p>
+          </div>
+          <div>
+            <p><strong>Learning checklist:</strong></p>
+          </div>
+          <div>
+            <ul class="has-list-bullet">
+              <li data-line="0">
+                <div class="list-bullet"></div>Multiplication by std. algorithm
+              </li>
+              <li data-line="1">
+                <div class="list-bullet"></div>Multiply decimals by std. algorithm or by conversion to fractions
+              </li>
+              <li data-line="2">
+                <div class="list-bullet"></div>Division by brackets, partial quotients, long division
+              </li>
+              <li data-line="3">
+                <div class="list-bullet"></div>Add, subtract, multiply, divide fractions (unit and non-unit) and mixed numbers (a.k.a compound fractions)
+              </li>
+              <li data-line="4">
+                <div class="list-bullet"></div>Convert fraction to decimals and v.versa
+              </li>
+              <li data-line="5">
+                <div class="list-bullet"></div>Give reciprocal of a number or fraction
+              </li>
+              <li data-line="6">
+                <div class="list-bullet"></div>Explain why exponents are repeated multiplication
+              </li>
+              <li data-line="7">
+                <div class="list-bullet"></div>Explain why a number to the 0th power is 1
+              </li>
+              <li data-line="8">
+                <div class="list-bullet"></div>Multiply, add, subtract numbers with exponents
+              </li>
+              <li data-line="9">
+                <div class="list-bullet"></div>Give the order of operations and why
+              </li>
+              <li data-line="10">
+                <div class="list-bullet"></div>Give |abs| of a negative number
+              </li>
+              <li data-line="11">
+                <div class="list-bullet"></div>Add, subtract, multiply, divide negative numbers with positive and negative numbers
+              </li>
+              <li data-line="12">
+                <div class="list-bullet"></div>Demonstrate the Distributive Property
+              </li>
+              <li data-line="13">
+                <div class="list-bullet"></div>Multiply and divide negative fractions
+              </li>
+            </ul>
+          </div>
+          <div class="mod-footer"></div>
+        </div>
+      </div>
+    </div>
+    <div class="sidebar-right sidebar">
+      <div class="sidebar-content"><span class="sidebar-section-header">Interactive Graph</span>
+        <div class="graph-view-placeholder">
+          <div class="graph-view-container">
+            <div class="graph-icon graph-expand" role="button" aria-label="Expand" data-tooltip-position="top"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-arrow-up-right">
+                <line x1="7" y1="17" x2="17" y2="7"></line>
+                <polyline points="7 7 17 7 17 17"></polyline>
+              </svg></div>
+            <canvas id="graph-canvas" width="512px" height="512px"></canvas>
+          </div>
+        </div>
+        <div class="tree-container outline-tree" data-depth="0">
+          <div class="tree-header"><span class="sidebar-section-header">Table Of Contents</span><button class="clickable-icon collapse-tree-button"><iconify-icon icon="ph:arrows-in-line-horizontal-bold" width="18px" height="18px" rotate="90deg" color="currentColor"></iconify-icon></button></div>
+          <div class="tree-scroll-area"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
