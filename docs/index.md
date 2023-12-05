@@ -5,6 +5,8 @@ tags:
 - Read [[About this Vault]] and the chosen learning path
 - See what [[Resources and Materials]] we'll use to learn mathematics for free
 
+# TEST PAGE
+
 ## Learning Plan
 
 - Based on [[U.S Maths Education]], for [[About this Vault|reasons]].
