@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "d2a383fe0c30054e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fba852e36d6cae2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a01f6f3c055771d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources and Materials.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e30f8eb56c55ebe8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e898cc838212dc05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a109a5cd3256cc1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "distrib",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "39a867dfa00640bb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "98b49baab2e68c26",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 411.500732421875
+  },
+  "right": {
+    "id": "4a478235d83339da",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3b9e3f4ecb52d27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d5a000f1dd910aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Resources and Materials.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c9548f0e1fcde219",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Resources and Materials.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c069b913e305db0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3e93f92407c1967f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "106ed74ed633fc4b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b9e0f21ffd28b9ef",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "3ccf37c031aed339",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Resources and Materials.md"
+              }
+            }
+          },
+          {
+            "id": "25fee664321e6932",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Resources and Materials.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 396.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "1a01f6f3c055771d",
+  "lastOpenFiles": [
+    "Assets/Oxford University/Part C 2023-24 Synopses.pdf",
+    "Assets/Oxford University/Unconfirmed 697318.crdownload",
+    "Assets/Oxford University/Part B Mathematics Synopses 2023-24.pdf",
+    "Assets/Oxford University/Unconfirmed 214036.crdownload",
+    "Assets/Oxford University/Part A Mathematics Synopses 2023-24.pdf",
+    "Assets/Oxford University/Unconfirmed 342963.crdownload",
+    "Assets/Oxford University/Prelims Mathematics Synopses 2023-24.pdf",
+    "Assets/Oxford University/Prelims Mathematics Synopses 2023-24.pdf.crdownload",
+    "Assets/Oxford University",
+    "Assets/New folder",
+    "About this Vault.md",
+    "Primary/Arithmetic.md",
+    "Primary/Basic Geometry.md",
+    "Resources and Materials.md",
+    "Secondary/Pre-algebra/Pre-algebra.md",
+    "Secondary/Pre-algebra/Properties of addition.md",
+    "Secondary/Pre-algebra/Properties of division.md",
+    "Secondary/Pre-algebra/Multiplying Fractions.md",
+    "Secondary/Pre-algebra/Properties of multiplication.md",
+    "Secondary/Pre-algebra/Exponents with a negative base.md",
+    "Secondary/Pre-algebra/Dividing Fractions.md",
+    "Secondary/Pre-algebra/Divisibility rules for 2 - 12.md",
+    "Secondary/Pre-algebra/Prime factorisation example.md",
+    "Secondary/Pre-algebra/Long division.md",
+    "Secondary/Pre-algebra/Finding the Least Common Multiple.md",
+    "Secondary/Pre-algebra/Finding the Greatest Common Divisor.md",
+    "Secondary/Pre-algebra/Dividing Decimals.md",
+    "Secondary/Pre-algebra/Adding & Subtracting Fractions.md",
+    "Secondary/Algebra I/_MoC - Algebra I.md",
+    "Secondary/Algebra I/Linear Equations.md",
+    "Symbols.md",
+    "U.S Maths Education.md",
+    "_Home - Mathematics Learning Plan.md",
+    "LaTeX.md",
+    "Notes to write up.md",
+    "Secondary/Algebra I",
+    "Assets/Quadrilateral Summary.png",
+    "Assets/Factoring.Whole.Numbers.Factor.Tree.Example.1.5.svg",
+    "Assets/Euler_diagram_of_quadrilateral_types.svg",
+    "Assets/coefficientsdefinition.svg",
+    "Assets/constantsdefinition.svg",
+    "Assets/AlgebraicExpression.svg",
+    "Mathematics/Assets/Factoring.Whole.Numbers.Factor.Tree.Example.1.5.svg",
+    "PropertiesofAddition_Label_Addend_Sum1.svg",
+    "Strength and Conditioning/_Assets and Images/Pasted image 20231112220806.png",
+    "Strength and Conditioning/_Assets and Images/Pasted image 20231112184305.png",
+    "Mathematics/Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}
