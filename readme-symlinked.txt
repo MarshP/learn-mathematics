@@ -1,0 +1,2 @@
+C:\Windows\system32>MKLINK /J "D:\Users\REDACT\Documents\GIT-REDACT\learn-mathematics\Mathematics" "D:\Users\REDACT\Dropbox\REDACT'S STUFF\Obsidian-Vaults\Mathematics"
+Junction created for D:\Users\REDACT\Documents\GIT-REDACT\learn-mathematics\Mathematics <<===>> D:\Users\REDACT\Dropbox\REDACT'S STUFF\Obsidian-Vaults\Mathematics
