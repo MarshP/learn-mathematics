@@ -2,16 +2,16 @@
 tags:
   - map-of-content
 ---
+# Start Here
+
 - Read [[About this Vault]] and the chosen learning path
 - See what [[Resources and Materials]] I'm using to learn mathematics for free
-
-## Learning Plan
-
 - Based on [[U.S Maths Education]], for [[About this Vault|reasons]].
 - Links lead to my sources and notes.
 
+## Learning Plan
 ### Primary
-1.  [[Arithmetic]]
+1.  [[Arithmetic]] 
 2.  [[Basic Geometry]]
 ### Secondary
 3.  [[Pre-algebra]]

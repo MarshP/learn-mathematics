@@ -10,5 +10,7 @@
   "promptDelete": false,
   "strictLineBreaks": true,
   "propertiesInDocument": "hidden",
-  "attachmentFolderPath": "Assets"
+  "attachmentFolderPath": "Assets",
+  "newFileLocation": "current",
+  "showInlineTitle": false
 }
