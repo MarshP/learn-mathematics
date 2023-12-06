@@ -4,12 +4,10 @@ https://en.wikipedia.org/wiki/Mathematics_education_in_the_United_States#Curricu
 ### Primary
 1.  [[Arithmetic]]
 2.  [[Basic Geometry]]
+
 ### Secondary
 3.  [[Pre-algebra]]
 4.  [[Algebra I]]
-
-## Future subjects
-### Secondary (cont.)
 5. Geometry
 6. Algebra II
 7. Precalculus
@@ -33,6 +31,6 @@ https://en.wikipedia.org/wiki/Mathematics_education_in_the_United_States#Curricu
 - Statistics
 
 ### Further study
-By now you'll know enough to choose what specialisms interest you. Some likely useful starters are:
-- set theory
-- mathematical logic
+By now I'll know enough to choose what specialisms interest me. Some likely useful starters are:
+- Set theory
+- Mathematical logic

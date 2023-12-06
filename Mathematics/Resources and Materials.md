@@ -1,10 +1,11 @@
-There are many, many more resources than are listed here. These are selected, quality materials you can use for free to complete the curriculum.
+There are many, many more resources than are listed here. These are selected, quality materials I can use for free to complete my curriculum.
 
 ## Educational Websites & Courses
 
 - www.greenemath.com
 - www.khanacademy.org
 - https://ocw.mit.edu/
+- https://www.ck12.org/ (As well as these study guides and lessons this site provides free textbooks, see below.)
 
 ## Textbooks
 
@@ -12,6 +13,7 @@ There are many, many more resources than are listed here. These are selected, qu
 - https://openstax.org/subjects/math
 - https://www.openculture.com/free-math-textbooks
 - https://archive.org/search?query=mathematics (Some books here are "loaned" library-style for an hour at a time.)
+- https://www.ck12.org/fbbrowse/ (This great site is also in websites, above.)
 
 ## Social
 
@@ -32,4 +34,5 @@ These have courses from several providers. The free courses from quality provide
 
 ## Other
 
-- If you can follow them, the pre-requisites and lecture notes for all Oxford mathematics courses are here: https://courses.maths.ox.ac.uk/local/planner/index.php
+- If I can follow them, the pre-requisites and lecture notes for all Oxford mathematics courses are here: https://courses.maths.ox.ac.uk/local/planner/index.php
+-  [Foundations of Lower Division Mathematics](https://lucid.app/lucidchart/56a6b240-591a-4e44-a8aa-69d3610b1a2e/view?page=0_0#) clickable map

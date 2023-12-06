@@ -3,11 +3,12 @@ tags:
   - map-of-content
 ---
 - Read [[About this Vault]] and the chosen learning path
-- See what [[Resources and Materials]] we'll use to learn mathematics for free
+- See what [[Resources and Materials]] I'm using to learn mathematics for free
 
 ## Learning Plan
 
 - Based on [[U.S Maths Education]], for [[About this Vault|reasons]].
+- Links lead to my sources and notes.
 
 ### Primary
 1.  [[Arithmetic]]
@@ -43,11 +44,3 @@ tags:
 By now you'll know enough to choose what specialisms interest you. Some likely useful starters are:
 - Set theory
 - Mathematical logic
-
-## Other paths and resources
-
-- [[Open University Q31 BSc Mathematics]]
-- [Foundations of Lower Division Mathematics](https://lucid.app/lucidchart/56a6b240-591a-4e44-a8aa-69d3610b1a2e/view?page=0_0#) clickable map
-- [Mathematics education in the United States - Curricular content and standards](https://en.wikipedia.org/wiki/Mathematics_education_in_the_United_States#Curricular_content_and_standards) Wikipedia
-- [[U.S Maths Education]]
-- [[Symbols]] for copy-paste
