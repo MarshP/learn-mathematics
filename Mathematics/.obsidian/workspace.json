@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secondary/Algebra I/Linear Equations.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Secondary/Algebra I/Linear Equations.md",
+                "file": "index.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Secondary/Algebra I/Linear Equations.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Secondary/Algebra I/Linear Equations.md"
+                "file": "index.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Secondary/Algebra I/Linear Equations.md"
+                "file": "index.md"
               }
             }
           }
@@ -187,34 +187,35 @@
   },
   "active": "1a01f6f3c055771d",
   "lastOpenFiles": [
-    "Assets/Symbols.md",
-    "Secondary/Algebra I/Linear Equations.md",
-    "Secondary/Algebra I/_Algebra I Index.md",
-    "Assets/Textbooks/Zaigralin - Basic Algebra - Openstax Creative Commons.pdf",
-    "Assets/Textbooks/Unconfirmed 448165.crdownload",
-    "Assets/Textbooks",
-    "Resources and Materials.md",
-    "index.md",
     "U.S Maths Education.md",
-    "Secondary/Pre-algebra/_Pre-algebra Index.md",
-    "Primary/_Basic Geometry Index.md",
-    "Primary/_Arithmetic Index.md",
-    "Assets/LaTeX Scratchpad.md",
-    "Secondary/Pre-algebra/Properties of multiplication.md",
-    "Secondary/Pre-algebra/Properties of addition.md",
+    "Resources and Materials.md",
     "Notes to Write Up.md",
-    "Secondary/Pre-algebra/Multiplying Fractions.md",
+    "index.md",
     "About this Vault.md",
     "Secondary/Undergraduate/Example Syllabus - Open University Q31 BSc Mathematics.md",
-    "Example Syllabus -  MIT BSc Pure Mathematics.md",
+    "Secondary/Undergraduate/Example Syllabus -  MIT BSc Pure Mathematics.md",
+    "Secondary/Pre-algebra/Properties of multiplication.md",
     "Secondary/Pre-algebra/Properties of division.md",
+    "Secondary/Pre-algebra/Properties of addition.md",
     "Secondary/Pre-algebra/Prime factorisation example.md",
+    "Secondary/Pre-algebra/Multiplying Fractions.md",
     "Secondary/Pre-algebra/Long division.md",
     "Secondary/Pre-algebra/Finding the Least Common Multiple.md",
     "Secondary/Pre-algebra/Finding the Greatest Common Divisor.md",
     "Secondary/Pre-algebra/Exponents with a negative base.md",
     "Secondary/Pre-algebra/Divisibility rules for 2 - 12.md",
     "Secondary/Pre-algebra/Dividing Fractions.md",
+    "Secondary/Pre-algebra/Dividing Decimals.md",
+    "Secondary/Pre-algebra/Adding & Subtracting Fractions.md",
+    "Secondary/Pre-algebra/_Pre-algebra Index.md",
+    "Secondary/Algebra I/Linear Equations.md",
+    "Secondary/Algebra I/_Algebra I Index.md",
+    "Primary/_Basic Geometry Index.md",
+    "Primary/_Arithmetic Index.md",
+    "Assets/Symbols.md",
+    "Assets/Textbooks/Zaigralin - Basic Algebra - Openstax Creative Commons.pdf",
+    "Assets/Textbooks/Unconfirmed 448165.crdownload",
+    "Assets/Textbooks",
     "index.html",
     "Assets/Oxford University/Part C 2023-24 Synopses.pdf",
     "Assets/Oxford University/Unconfirmed 697318.crdownload",
