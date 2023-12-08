@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About this Vault.md",
+                "file": "Secondary/Algebra I/Linear Equations.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "About this Vault.md",
+                "file": "Secondary/Algebra I/Linear Equations.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "About this Vault.md",
+                "file": "Secondary/Algebra I/Linear Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "About this Vault.md"
+                "file": "Secondary/Algebra I/Linear Equations.md"
               }
             }
           },
@@ -162,17 +162,16 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "About this Vault.md"
+                "file": "Secondary/Algebra I/Linear Equations.md"
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 396.5,
-    "collapsed": true
+    "width": 396.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,71 +185,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "9e53deb878cb1ee3",
-    "type": "floating",
-    "children": [
-      {
-        "id": "919908f36f2a4299",
-        "type": "window",
-        "children": [
-          {
-            "id": "99329dcad39ba7c3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "66eca6efd3f84899",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "About this Vault.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1270,
-        "y": 915,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "66eca6efd3f84899",
+  "active": "1a01f6f3c055771d",
   "lastOpenFiles": [
-    "Secondary/Undergraduate/Example Syllabus - Open University Q31 BSc Mathematics.md",
-    "About this Vault.md",
-    "Symbols.md",
+    "Assets/Symbols.md",
+    "Secondary/Algebra I/Linear Equations.md",
+    "Secondary/Algebra I/_Algebra I Index.md",
+    "Assets/Textbooks/Zaigralin - Basic Algebra - Openstax Creative Commons.pdf",
+    "Assets/Textbooks/Unconfirmed 448165.crdownload",
+    "Assets/Textbooks",
     "Resources and Materials.md",
-    "Notes to Write Up.md",
-    "LaTeX Scratchpad.md",
     "index.md",
-    "Example Syllabus -  MIT BSc Pure Mathematics.md",
+    "U.S Maths Education.md",
+    "Secondary/Pre-algebra/_Pre-algebra Index.md",
+    "Primary/_Basic Geometry Index.md",
+    "Primary/_Arithmetic Index.md",
+    "Assets/LaTeX Scratchpad.md",
     "Secondary/Pre-algebra/Properties of multiplication.md",
-    "Secondary/Pre-algebra/Properties of division.md",
     "Secondary/Pre-algebra/Properties of addition.md",
-    "Secondary/Pre-algebra/Prime factorisation example.md",
-    "Secondary/Pre-algebra/Pre-algebra.md",
+    "Notes to Write Up.md",
     "Secondary/Pre-algebra/Multiplying Fractions.md",
+    "About this Vault.md",
+    "Secondary/Undergraduate/Example Syllabus - Open University Q31 BSc Mathematics.md",
+    "Example Syllabus -  MIT BSc Pure Mathematics.md",
+    "Secondary/Pre-algebra/Properties of division.md",
+    "Secondary/Pre-algebra/Prime factorisation example.md",
     "Secondary/Pre-algebra/Long division.md",
     "Secondary/Pre-algebra/Finding the Least Common Multiple.md",
     "Secondary/Pre-algebra/Finding the Greatest Common Divisor.md",
     "Secondary/Pre-algebra/Exponents with a negative base.md",
     "Secondary/Pre-algebra/Divisibility rules for 2 - 12.md",
     "Secondary/Pre-algebra/Dividing Fractions.md",
-    "Secondary/Pre-algebra/Dividing Decimals.md",
-    "Secondary/Pre-algebra/Adding & Subtracting Fractions.md",
-    "Secondary/Algebra I/Linear Equations.md",
-    "Secondary/Algebra I/Algebra I.md",
-    "Primary/Basic Geometry.md",
-    "Primary/Arithmetic.md",
     "index.html",
     "Assets/Oxford University/Part C 2023-24 Synopses.pdf",
     "Assets/Oxford University/Unconfirmed 697318.crdownload",
@@ -258,9 +222,6 @@
     "Assets/Oxford University/Unconfirmed 214036.crdownload",
     "Assets/Oxford University/Part A Mathematics Synopses 2023-24.pdf",
     "Assets/Oxford University/Unconfirmed 342963.crdownload",
-    "Assets/Oxford University/Prelims Mathematics Synopses 2023-24.pdf",
-    "Assets/Oxford University/Prelims Mathematics Synopses 2023-24.pdf.crdownload",
-    "Assets/Oxford University",
     "Assets/Quadrilateral Summary.png",
     "Assets/Factoring.Whole.Numbers.Factor.Tree.Example.1.5.svg",
     "Assets/Euler_diagram_of_quadrilateral_types.svg",

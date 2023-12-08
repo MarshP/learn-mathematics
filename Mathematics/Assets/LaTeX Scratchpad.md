@@ -38,3 +38,17 @@ $$
 $$
 [;\left\langle\psi,\left(\int_\mathbb{R} f\ \operatorname{d}\!P\right)\varphi\right\rangle = \left\langle\psi,\sum_{n=1}^N f_n P(\Omega_n)\varphi\right\rangle;]
 $$
+$$
+\displaylines{
+{5(1-5x) = 2(-6x-4)} \\
+\break
+jo
+\newline
+jjjj
+
+
+
+
+
+}
+$$
