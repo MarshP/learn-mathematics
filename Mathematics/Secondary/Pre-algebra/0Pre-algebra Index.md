@@ -8,7 +8,7 @@ tags:
 > These concepts are fundamental to success in higher math classes such as Algebra, Geometry, and Calculus. We will review operations with whole numbers, then move on to learn how to perform operations with integers, fractions, and decimals. We will wrap up our course by learning how to find the mean, median, and mode for a group of numbers, along with how to convert between various units of measurement.
 > -- https://www.greenemath.com/Prealgebra.html
 
-**Note:** This subject also serves as a revision in most concepts from [[_Arithmetic Index]].
+**Note:** This subject also serves as a revision in most concepts from [[0Arithmetic Index]].
 
 **Course:**
 https://www.greenemath.com/Prealgebra.html

@@ -11,11 +11,11 @@ tags:
 
 ## Learning Plan
 ### Primary
-1.  [[_Arithmetic Index]] 
-2.  [[_Basic Geometry Index]]
+1.  [[0Arithmetic Index]] 
+2.  [[0Basic Geometry Index]]
 ### Secondary
-3.  [[_Pre-algebra Index]]
-4.  [[_Algebra I Index]] <--- I'm currently here
+3.  [[0Pre-algebra Index]]
+4.  [[0Algebra I Index]] <--- I'm currently here
 
 ## Future subjects
 ### Secondary (cont.)

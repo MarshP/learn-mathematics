@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Primary/0Arithmetic Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Primary/0Arithmetic Index.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Primary/0Arithmetic Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Primary/0Arithmetic Index.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "Primary/0Arithmetic Index.md"
               }
             }
           }
@@ -207,11 +207,11 @@
     "Secondary/Pre-algebra/Dividing Fractions.md",
     "Secondary/Pre-algebra/Dividing Decimals.md",
     "Secondary/Pre-algebra/Adding & Subtracting Fractions.md",
-    "Secondary/Pre-algebra/_Pre-algebra Index.md",
+    "Secondary/Pre-algebra/0Pre-algebra Index.md",
     "Secondary/Algebra I/Linear Equations.md",
-    "Secondary/Algebra I/_Algebra I Index.md",
-    "Primary/_Basic Geometry Index.md",
-    "Primary/_Arithmetic Index.md",
+    "Secondary/Algebra I/0Algebra I Index.md",
+    "Primary/0Basic Geometry Index.md",
+    "Primary/0Arithmetic Index.md",
     "Assets/Symbols.md",
     "Assets/Textbooks/Zaigralin - Basic Algebra - Openstax Creative Commons.pdf",
     "Assets/Textbooks/Unconfirmed 448165.crdownload",
