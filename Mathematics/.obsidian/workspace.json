@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primary/0Arithmetic Index.md",
+                "file": "Secondary/Algebra I/Linear Equations.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Primary/0Arithmetic Index.md",
+                "file": "Secondary/Algebra I/Linear Equations.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Primary/0Arithmetic Index.md",
+                "file": "Secondary/Algebra I/Linear Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Primary/0Arithmetic Index.md"
+                "file": "Secondary/Algebra I/Linear Equations.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Primary/0Arithmetic Index.md"
+                "file": "Secondary/Algebra I/Linear Equations.md"
               }
             }
           }
@@ -187,11 +187,12 @@
   },
   "active": "1a01f6f3c055771d",
   "lastOpenFiles": [
+    "About this Vault.md",
+    "index.md",
+    "Primary/0Arithmetic Index.md",
     "U.S Maths Education.md",
     "Resources and Materials.md",
     "Notes to Write Up.md",
-    "index.md",
-    "About this Vault.md",
     "Secondary/Undergraduate/Example Syllabus - Open University Q31 BSc Mathematics.md",
     "Secondary/Undergraduate/Example Syllabus -  MIT BSc Pure Mathematics.md",
     "Secondary/Pre-algebra/Properties of multiplication.md",
@@ -211,7 +212,6 @@
     "Secondary/Algebra I/Linear Equations.md",
     "Secondary/Algebra I/0Algebra I Index.md",
     "Primary/0Basic Geometry Index.md",
-    "Primary/0Arithmetic Index.md",
     "Assets/Symbols.md",
     "Assets/Textbooks/Zaigralin - Basic Algebra - Openstax Creative Commons.pdf",
     "Assets/Textbooks/Unconfirmed 448165.crdownload",
