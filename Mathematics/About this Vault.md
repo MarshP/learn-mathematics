@@ -27,6 +27,10 @@ Pages are both tagged for Obsidian users, and sorted into folders for everyone e
 
 I'm not preparing this vault for publication or beauty contests. I'll make single pages consistent and readable, buy syntax and typography will be inconsistent across pages; what's a Heading: 2 on one page might be H3 or just bold on another. Sorry.
 
+### Why the 0-filenames-0 ?
+
+It's a way to keep indexes/maps of content alphabetically at the top of lists of pages. I'd usually use an underscore prefix, but that doesn't serve correctly on Github Pages.
+
 
 
 [^1]: Thanks, Tytherington School, Macclesfield

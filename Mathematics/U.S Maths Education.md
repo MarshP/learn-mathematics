@@ -2,12 +2,12 @@
 
 https://en.wikipedia.org/wiki/Mathematics_education_in_the_United_States#Curricular_content_and_standards
 ### Primary
-1.  [[0Arithmetic Index]]
-2.  [[0Basic Geometry Index]]
+1.  [[0-Arithmetic Index-0]]
+2.  [[0-Basic Geometry Index-0]]
 
 ### Secondary
-3.  [[0Pre-algebra Index]]
-4.  [[0Algebra I Index]]
+3.  [[0-Pre-algebra Index-0]]
+4.  [[0-Algebra I Index-0]]
 5. Geometry
 6. Algebra II
 7. Precalculus

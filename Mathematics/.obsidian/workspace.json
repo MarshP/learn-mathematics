@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secondary/Algebra I/Linear Equations.md",
+                "file": "Secondary/Algebra I/0-Algebra I Index-0.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Secondary/Algebra I/Linear Equations.md",
+                "file": "index.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Secondary/Algebra I/Linear Equations.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Secondary/Algebra I/Linear Equations.md"
+                "file": "index.md"
               }
             }
           },
@@ -162,12 +162,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Secondary/Algebra I/Linear Equations.md"
+                "file": "index.md"
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -185,11 +185,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1a01f6f3c055771d",
+  "floating": {
+    "id": "9bc892f5be5bc4cc",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d180e7b8855ceaf7",
+        "type": "window",
+        "children": [
+          {
+            "id": "743c9ec29c806ad5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bfabc7bc83cb0094",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "index.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1270,
+        "y": 915,
+        "width": 800,
+        "height": 400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "bfabc7bc83cb0094",
   "lastOpenFiles": [
     "About this Vault.md",
+    "Secondary/Pre-algebra/0-Pre-algebra Index-0.md",
+    "Secondary/Algebra I/Linear Inequalities.md",
+    "Secondary/Algebra I/0-Algebra I Index-0.md",
+    "Primary/0-Basic Geometry Index-0.md",
+    "Primary/0-Arithmetic Index-0.md",
     "index.md",
-    "Primary/0Arithmetic Index.md",
+    "Secondary/Algebra I/Linear Equations.md",
+    "Assets/Textbooks/Zaigralin - Basic Algebra - Openstax Creative Commons.pdf",
+    "Assets/Symbols.md",
     "U.S Maths Education.md",
     "Resources and Materials.md",
     "Notes to Write Up.md",
@@ -207,13 +251,6 @@
     "Secondary/Pre-algebra/Divisibility rules for 2 - 12.md",
     "Secondary/Pre-algebra/Dividing Fractions.md",
     "Secondary/Pre-algebra/Dividing Decimals.md",
-    "Secondary/Pre-algebra/Adding & Subtracting Fractions.md",
-    "Secondary/Pre-algebra/0Pre-algebra Index.md",
-    "Secondary/Algebra I/Linear Equations.md",
-    "Secondary/Algebra I/0Algebra I Index.md",
-    "Primary/0Basic Geometry Index.md",
-    "Assets/Symbols.md",
-    "Assets/Textbooks/Zaigralin - Basic Algebra - Openstax Creative Commons.pdf",
     "Assets/Textbooks/Unconfirmed 448165.crdownload",
     "Assets/Textbooks",
     "index.html",

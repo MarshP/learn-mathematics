@@ -2,7 +2,7 @@
 
 - [Online lesson](https://www.greenemath.com/AlgebraI.html#linear-equations)
 - [[Zaigralin - Basic Algebra - Openstax Creative Commons.pdf|Textbook: Zaigralin - Basic Algebra]]
-- My notes TBA
+- [My notes](https://photos.app.goo.gl/eGQeSXveHxYCVf6M6)
 
 ## Learning checklist
 
@@ -24,7 +24,9 @@
   - **Multiplicative invers property** any non-zero number, expressed as fraction, x its reciprocal, is 1
 - In a simple equation solvable by mult and div, **isolate a variable by inverse operations**
 - **Solve linear equations** in one variable with a 4 step process.
-- Spot **conditional** (normal solvable), **identity** (solution is any real number) and **contradiction** (no solution is true) equations.
+- Spot **conditional** (normal solvable, inc. 1y = 0), **identity** (0y = 0 **but not** 1y = 0; solution is any real number {ℝ} ) and **contradiction** (no solution is true {∅} ) equations.
+- Define **ratio, rate and proportion**.
+- Solve **ratio equations** by starting with cross multiplication then the four steps.
 
 ## Solve linear equations in one variable
 
@@ -33,8 +35,8 @@
 
 Four*ish* step process:
 
-
   - If it's a word or application problem, find what is being asked and assign the unknown quantity a variable.
+  - If it's a ratio, cross multiply.
 1. Simplify both sides so far as possible
   - Remove brackets by [[Properties of multiplication|distributive property of multiplication]]
   - When we encounter an equation with fractions and parentheses are involved, we want to remove parentheses before we clear our fractions
@@ -48,14 +50,14 @@ Four*ish* step process:
 
 $$
 \displaylines{
-{5(1 - 5x) = 2( -6x -4)} \\
-{5-25x = -12x-8} \\
-{5-25x + 12x = -8} \\
-{5-13x = -8} \\
-{-13x = -8-5} \\
-{-13x = -13} \\
-{{-13\over-13}x = {-13\over-13}} \\
-{{1}x = {1}} \\
+{5(1 - 5x) = 2( -6x -4)} \newline
+{5-25x = -12x-8} \newline
+{5-25x + 12x = -8} \newline
+{5-13x = -8} \newline
+{-13x = -8-5} \newline
+{-13x = -13} \newline
+{{-13\over-13}x = {-13\over-13}} \newline
+{{1}x = {1}} \newline
 }
 $$
 
