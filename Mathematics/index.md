@@ -10,6 +10,12 @@ tags:
 - Links lead to my sources and notes.
 
 ## Learning Plan
+
+### Learning techniques
+
+[[How_To_Study_Math.pdf]]
+[[Common_Math_Errors.pdf]]
+
 ### Primary
 1.  [[0-Arithmetic Index-0]] 
 2.  [[0-Basic Geometry Index-0]]

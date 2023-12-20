@@ -6,8 +6,9 @@ tags:
 cssclasses:
 ---
 
-**My notes:**
+**My pen & paper notes:**
 https://photos.app.goo.gl/DJA4fHQZvwCGjkg5A
+
 **Course:**
 https://www.khanacademy.org/math/basic-geo
 

@@ -4,7 +4,7 @@ tags:
   - arithmetic
 ---
 
-**My notes:**
+**My pen & paper notes:**
 https://photos.app.goo.gl/AXQGA9HHjvX8SBP58
 
 **Course:**

@@ -6,6 +6,7 @@ There are many, many more resources than are listed here. These are selected, qu
 - www.khanacademy.org
 - https://ocw.mit.edu/
 - https://www.ck12.org/ (As well as these study guides and lessons this site provides free textbooks, see below.)
+- https://tutorial.math.lamar.edu/ (Paul Dawkins at Lamar University, TX; these lecture and course notes start with algebra review in prep for calculus, then calculus and differential equations.)
 
 ## Textbooks
 

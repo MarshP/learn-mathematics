@@ -2,7 +2,7 @@
 
 - [Online lesson](https://www.greenemath.com/AlgebraI.html#linear-equations)
 - [[Zaigralin - Basic Algebra - Openstax Creative Commons.pdf|Textbook: Zaigralin - Basic Algebra]]
-- [My notes](https://photos.app.goo.gl/eGQeSXveHxYCVf6M6)
+- [My pen & paper notes](https://photos.app.goo.gl/eGQeSXveHxYCVf6M6)
 
 ## Learning checklist
 
@@ -26,7 +26,7 @@
 - **Solve linear equations** in one variable with a 4 step process.
 - Spot **conditional** (normal solvable, inc. 1y = 0), **identity** (0y = 0 **but not** 1y = 0; solution is any real number {ℝ} ) and **contradiction** (no solution is true {∅} ) equations.
 - Define **ratio, rate and proportion**.
-- Solve **ratio equations** by starting with cross multiplication then the four steps.
+- ! I dunno about this. More usually seems to need simplification with LCD!  Solve **proportion equations** by starting with cross multiplication then the four steps.
 
 ## Solve linear equations in one variable
 
@@ -36,7 +36,7 @@
 Four*ish* step process:
 
   - If it's a word or application problem, find what is being asked and assign the unknown quantity a variable.
-  - If it's a ratio, cross multiply.
+  - If it's a proportion equation, one fraction each side, cross multiply.
 1. Simplify both sides so far as possible
   - Remove brackets by [[Properties of multiplication|distributive property of multiplication]]
   - When we encounter an equation with fractions and parentheses are involved, we want to remove parentheses before we clear our fractions
@@ -44,7 +44,7 @@ Four*ish* step process:
   - Collect like terms
 2. Isolate the variable term(s) on one side, usually left, using addition/subtraction (addition property of equality, additive inverse property)
 3. Isolate the variable using multiplication and division
-4. Check the answer by substituting the variable in the original equation
+4. Check the answer by substituting the variable in the original equation. **This matters it's where you may find div by zero etc. contradictions.**
 
 **Example**
 

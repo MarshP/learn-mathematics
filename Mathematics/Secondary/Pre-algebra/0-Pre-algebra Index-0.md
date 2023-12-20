@@ -14,7 +14,7 @@ tags:
 https://www.greenemath.com/Prealgebra.html
 
 **My notes:**
-See below.
+See below. No pen & paper notes.
 
 You'll want to learn the topics listed below. At revision I split the list into known topics and those needing a review.
 ## Reviewed, made new cheat sheets
