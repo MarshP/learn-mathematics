@@ -6,6 +6,12 @@
 
 ## Learning checklist
 
+
+> [!WARNING] Errors I often make
+> 1. When multiplying out brackets, ensure the sign of the product/s is correct.
+> 2. When moving terms across the equals sign, ensure the sign correctly reflects how you removed the term from the original side. E.g "+2" moved across the equals becomes "-2" because it was subtracted from the original side. **Think: I'm not moving +2 across; I'm subtracting it from each side.**
+
+
 - We call an equation linear if every term is either a constant or a product of a constant and the first power of a single variable.
 - Why we don't use x as the sign for multiplication; what we do instead; **dots, parentheses, proximity**.
 - Define **term** (a constant, or a variable and coefficient) and **expression** (terms separated by + or -)
@@ -17,7 +23,7 @@
 - **Test a solution** for a variable in an equation by simple substitution (plug it in, see if it gives true result)
 - Understand the **addition property of equality** (we can add or subtract a value from both sides of an equation without changing the solution)
   - **Additive inverse property** any number plus its negative is zero
-  - **Additive identity zero** any number plus zero is unchanged.
+  - **Additive identity of zero** any number plus zero is unchanged.
 - In a simple equation solvable by addition and subtraction, **isolate a variable by inverse operations** (add or subtract from both sides until you get x = number)
 -  Understand the **multiplicative property of equality** (we can mult or div both sides by a non-zero value without changing the solution)
   - **Multiplicative identity property of 1** any number x1 is unchanged

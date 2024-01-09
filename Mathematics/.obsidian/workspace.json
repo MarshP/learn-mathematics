@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secondary/Algebra I/Linear Inequalities.md",
+                "file": "Secondary/Algebra I/Linear Equations.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Secondary/Algebra I/Linear Inequalities.md",
+                "file": "Secondary/Algebra I/Linear Equations.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Secondary/Algebra I/Linear Inequalities.md",
+                "file": "Secondary/Algebra I/Linear Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -152,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Secondary/Algebra I/Linear Inequalities.md"
+                "file": "Secondary/Algebra I/Linear Equations.md"
               }
             }
           },
@@ -162,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Secondary/Algebra I/Linear Inequalities.md"
+                "file": "Secondary/Algebra I/Linear Equations.md"
               }
             }
           }
@@ -187,24 +189,26 @@
   },
   "active": "1a01f6f3c055771d",
   "lastOpenFiles": [
-    "Resources and Materials.md",
-    "index.md",
-    "Secondary/Pre-algebra/0-Pre-algebra Index-0.md",
-    "Secondary/Algebra I/Linear Inequalities.md",
+    "Assets/LaTeX Scratchpad.md",
     "Secondary/Algebra I/Linear Equations.md",
+    "index.md",
+    "Notes to Write Up.md",
+    "Secondary/Algebra I/Linear Inequalities.md",
+    "Secondary/Pre-algebra/Properties of multiplication.md",
     "Secondary/Algebra I/An Aside All About Numbers.md",
     "Secondary/Algebra I/0-Algebra I Index-0.md",
-    "Primary/0-Basic Geometry Index-0.md",
+    "Secondary/Pre-algebra/Adding & Subtracting Fractions.md",
     "Primary/0-Arithmetic Index-0.md",
+    "Resources and Materials.md",
+    "Secondary/Pre-algebra/0-Pre-algebra Index-0.md",
+    "Primary/0-Basic Geometry Index-0.md",
     "Secondary/Algebra I/().md",
     "Assets/Symbols.md",
     "Assets/Textbooks/Zaigralin - Basic Algebra - Openstax Creative Commons.pdf",
     "About this Vault.md",
     "U.S Maths Education.md",
-    "Notes to Write Up.md",
     "Secondary/Undergraduate/Example Syllabus - Open University Q31 BSc Mathematics.md",
     "Secondary/Undergraduate/Example Syllabus -  MIT BSc Pure Mathematics.md",
-    "Secondary/Pre-algebra/Properties of multiplication.md",
     "Secondary/Pre-algebra/Properties of division.md",
     "Secondary/Pre-algebra/Properties of addition.md",
     "Secondary/Pre-algebra/Prime factorisation example.md",
@@ -212,8 +216,6 @@
     "Secondary/Pre-algebra/Long division.md",
     "Secondary/Pre-algebra/Finding the Least Common Multiple.md",
     "Secondary/Pre-algebra/Finding the Greatest Common Divisor.md",
-    "Secondary/Pre-algebra/Exponents with a negative base.md",
-    "Secondary/Pre-algebra/Divisibility rules for 2 - 12.md",
     "Assets/Textbooks/Unconfirmed 448165.crdownload",
     "Assets/Textbooks",
     "index.html",
