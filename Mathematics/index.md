@@ -11,11 +11,7 @@ tags:
 
 ## Learning Plan
 
-### Learning techniques
-
-[[How_To_Study_Math.pdf]]
-[[Common_Math_Errors.pdf]]
-
+- [[Sticking Points to Revisit]]
 ### Primary
 1.  [[0-Arithmetic Index-0]] 
 2.  [[0-Basic Geometry Index-0]]
@@ -27,7 +23,7 @@ tags:
 ### Secondary (cont.)
 5. Geometry
 6. Algebra II
-7. Precalculus
+7. Precalculus **<--- My 2024 goal**
 
 ### Tertiary/undergraduate 
 8. Single-variable calculus

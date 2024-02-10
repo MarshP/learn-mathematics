@@ -46,11 +46,12 @@ Four*ish* step process:
 1. Simplify both sides so far as possible
   - Remove brackets by [[Properties of multiplication|distributive property of multiplication]]
   - When we encounter an equation with fractions and parentheses are involved, we want to remove parentheses before we clear our fractions
-  - `Q: decimals clear before or after brackets?`
+  - `Q: decimals clear before or after brackets?` A: before but don't multiply up the bracket contents.
   - Collect like terms
 2. Isolate the variable term(s) on one side, usually left, using addition/subtraction (addition property of equality, additive inverse property)
 3. Isolate the variable using multiplication and division
 4. Check the answer by substituting the variable in the original equation. **This matters it's where you may find div by zero etc. contradictions.**
+
 
 **Example**
 

@@ -8,8 +8,9 @@ tags:
 > -- https://www.greenemath.com/AlgebraI.html
 
 - [[An Aside All About Numbers]]
+- [[Multiplying Out Decimals and Fractions]]
 - [[Linear Equations]] 
-- [[Linear Inequalities]] **<--- I'm currently here**
+- [[Linear Inequalities and Interval Notation]] **<--- I'm currently here**
 
 - Graphing
   - (https://www.greenemath.com/AlgebraI.html#graphing)

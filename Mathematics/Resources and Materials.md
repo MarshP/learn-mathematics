@@ -8,13 +8,17 @@ There are many, many more resources than are listed here. These are selected, qu
 - https://www.ck12.org/ (As well as these study guides and lessons this site provides free textbooks, see below.)
 - https://tutorial.math.lamar.edu/ (Paul Dawkins at Lamar University, TX; these lecture and course notes start with algebra review in prep for calculus, then calculus and differential equations.)
 
-## Textbooks
+## Textbooks and Handouts
 
 - https://open.umn.edu/opentextbooks/subjects/mathematics
 - https://openstax.org/subjects/math
 - https://www.openculture.com/free-math-textbooks
 - https://archive.org/search?query=mathematics (Some books here are "loaned" library-style for an hour at a time.)
 - https://www.ck12.org/fbbrowse/ (This great site is also in websites, above.)
+### Learning techniques
+
+[[How_To_Study_Math.pdf]] (*Paul's Notes* by Prof. Paul Dawkins)
+[[Common_Math_Errors.pdf]] (*Paul's Notes* by Prof. Paul Dawkins)
 
 ## Social
 
