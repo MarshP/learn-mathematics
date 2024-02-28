@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources and Materials.md",
+                "file": "index.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources and Materials.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources and Materials.md"
+                "file": "index.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Resources and Materials.md"
+                "file": "index.md"
               }
             }
           }
@@ -173,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.5
+    "width": 396.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,54 +188,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "7961d5a407ef30bb",
-    "type": "floating",
-    "children": [
-      {
-        "id": "4063411597de9e97",
-        "type": "window",
-        "children": [
-          {
-            "id": "c64b56940658163c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "91d5514b4d1606a0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Resources and Materials.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1270,
-        "y": 915,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "91d5514b4d1606a0",
+  "active": "1a01f6f3c055771d",
   "lastOpenFiles": [
-    "index.md",
-    "Secondary/Algebra I/Multiplying Out Decimals and Fractions.md",
-    "Secondary/Algebra I/Linear Inequalities and Interval Notation.md",
-    "Secondary/Algebra I/Linear Equations.md",
+    "Secondary/Algebra I/Graphing Equations and Inequalities in Two Variables.md",
     "Secondary/Algebra I/0-Algebra I Index-0.md",
+    "index.md",
+    "Secondary/Algebra I/Linear Inequalities and Interval Notation.md",
+    "Assets/D--p_inequalities_diagram.jpg",
+    "Assets/Symbols.md",
+    "Resources and Materials.md",
+    "Secondary/Algebra I/Multiplying Out Decimals and Fractions.md",
+    "Secondary/Algebra I/Linear Equations.md",
     "Secondary/Algebra I/An Aside All About Numbers.md",
     "Sticking Points to Revisit.md",
     "Assets/Textbooks/Zaigralin - Basic Algebra - Openstax Creative Commons.pdf",
-    "Resources and Materials.md",
     "U.S Maths Education.md",
     "Primary/0-Arithmetic Index-0.md",
     "Assets/Paul's Notes (Paul Dawkins at Lamar University)/How_To_Study_Math.pdf",
@@ -242,7 +209,6 @@
     "Assets/Quadrilateral Summary.png",
     "Assets/Factoring.Whole.Numbers.Factor.Tree.Example.1.5.svg",
     "Assets/gcse-maths-2015-specification.pdf",
-    "Assets/Symbols.md",
     "Assets/Paul's Notes (Paul Dawkins at Lamar University)/Laplace_Table.pdf",
     "Assets/Open University/M140syllabus.pdf",
     "Primary/0-Basic Geometry Index-0.md",
@@ -257,8 +223,6 @@
     "Secondary/Pre-algebra/Properties of division.md",
     "Secondary/Pre-algebra/Properties of addition.md",
     "Secondary/Pre-algebra/Prime factorisation example.md",
-    "Secondary/Pre-algebra/Multiplying Fractions.md",
-    "Secondary/Pre-algebra/Long division.md",
     "Assets/Textbooks/Unconfirmed 448165.crdownload",
     "Assets/Textbooks",
     "index.html",
@@ -271,7 +235,6 @@
     "Mathematics/Assets/Factoring.Whole.Numbers.Factor.Tree.Example.1.5.svg",
     "PropertiesofAddition_Label_Addend_Sum1.svg",
     "Strength and Conditioning/_Assets and Images/Pasted image 20231112220806.png",
-    "Strength and Conditioning/_Assets and Images/Pasted image 20231112184305.png",
     "Mathematics/Untitled.canvas",
     "Untitled.canvas"
   ]

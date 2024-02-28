@@ -10,10 +10,9 @@ tags:
 - [[An Aside All About Numbers]]
 - [[Multiplying Out Decimals and Fractions]]
 - [[Linear Equations]] 
-- [[Linear Inequalities and Interval Notation]] **<--- I'm currently here**
-
-- Graphing
-  - (https://www.greenemath.com/AlgebraI.html#graphing)
+- [[Linear Inequalities and Interval Notation]] 
+- [[Graphing Equations and Inequalities in Two Variables]]  **<--- I'm currently here**
+  
 - Functions
   - (https://www.greenemath.com/AlgebraI.html#functions)
 - Linear Systems
