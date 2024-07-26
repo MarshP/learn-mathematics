@@ -1,11 +1,43 @@
 {
   "vaultName": "Mathematics",
-  "lastExport": 1714951526975,
+  "lastExport": 1722034020398,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-dark",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
+    "_Assets/Open University/M140syllabus.pdf",
+    "_Assets/Open University/M208syllabus.pdf",
+    "_Assets/Open University/MST124syllabus.pdf",
+    "_Assets/Open University/MST125syllabus.pdf",
+    "_Assets/Open University/MST210syllabus (1).pdf",
+    "_Assets/Open University/MST224syllabus.pdf",
+    "_Assets/Open University/MU123syllabus.pdf",
+    "_Assets/Oxford University/Part A Mathematics Synopses 2023-24.pdf",
+    "_Assets/Oxford University/Part B Mathematics Synopses 2023-24.pdf",
+    "_Assets/Oxford University/Part C 2023-24 Synopses.pdf",
+    "_Assets/Oxford University/Prelims Mathematics Synopses 2023-24.pdf",
+    "_Assets/Paul's Notes (Paul Dawkins at Lamar University)/Algebra_Cheat_Sheet.pdf",
+    "_Assets/Paul's Notes (Paul Dawkins at Lamar University)/Calculus_Cheat_Sheet_All.pdf",
+    "_Assets/Paul's Notes (Paul Dawkins at Lamar University)/Common_Math_Errors.pdf",
+    "_Assets/Paul's Notes (Paul Dawkins at Lamar University)/How_To_Study_Math.pdf",
+    "_Assets/Paul's Notes (Paul Dawkins at Lamar University)/Laplace_Table.pdf",
+    "_Assets/Paul's Notes (Paul Dawkins at Lamar University)/Trig_Cheat_Sheet.pdf",
+    "_Assets/Textbooks/OpenStax - College Algebra 2e (Abramson) - 2021.pdf",
+    "_Assets/Textbooks/OpenStax - Elementary Algebra 2e (Maracek, Honeycutt-Mathis) - 2020.pdf",
+    "_Assets/Textbooks/OpenStax - Intermediate Algebra 2e (Maracek, Honeycutt-Mathis) - 2020.pdf",
+    "_Assets/Textbooks/Zaigralin - Basic Algebra with Applications 6e - 2018 - Open Textbook Library.pdf",
+    "_Assets/Textbooks/zaigralin-basic-algebra-with-applications-6e-2018-open-textbook-library.pdf",
+    "_Assets/D--g exponent help.jpg",
+    "_Assets/D--p_inequalities_diagram.jpg",
+    "_Assets/Example Syllabus -  MIT BSc Pure Mathematics.md",
+    "_Assets/Factoring.Whole.Numbers.Factor.Tree.Example.1.5.svg",
+    "_Assets/gcse-maths-2015-specification.pdf",
+    "_Assets/LaTeX Scratchpad.md",
+    "_Assets/My reviews of free maths textbooks I've tried.md",
+    "_Assets/Quadrilateral Summary.png",
+    "_Assets/Symbols.md",
+    "_Assets/US_Core_Standards_Maths.pdf",
     "0 - Primary/0-0 Arithmetic index.md",
     "0 - Primary/0-1 Basic geometry index.md",
     "1 - Secondary/1-0 Pre-algebra/1-0 Pre-algebra index.md",
@@ -31,39 +63,7 @@
     "1 - Secondary/1-1 Algebra I/Linear Systems.md",
     "1 - Secondary/1-1 Algebra I/Multiplying out decimals and fractions.md",
     "1 - Secondary/1-1 Algebra I/Polynomials and Exponents.md",
-    "3 - Undergraduate/Example Syllabus -  MIT BSc Pure Mathematics.md",
-    "3 - Undergraduate/Example Syllabus - Open University Q31 BSc Mathematics.md",
-    "3 - Undergraduate/Learn LaTeX.md",
-    "Assets/Open University/M140syllabus.pdf",
-    "Assets/Open University/M208syllabus.pdf",
-    "Assets/Open University/MST124syllabus.pdf",
-    "Assets/Open University/MST125syllabus.pdf",
-    "Assets/Open University/MST210syllabus (1).pdf",
-    "Assets/Open University/MST224syllabus.pdf",
-    "Assets/Open University/MU123syllabus.pdf",
-    "Assets/Oxford University/Part A Mathematics Synopses 2023-24.pdf",
-    "Assets/Oxford University/Part B Mathematics Synopses 2023-24.pdf",
-    "Assets/Oxford University/Part C 2023-24 Synopses.pdf",
-    "Assets/Oxford University/Prelims Mathematics Synopses 2023-24.pdf",
-    "Assets/Paul's Notes (Paul Dawkins at Lamar University)/Algebra_Cheat_Sheet.pdf",
-    "Assets/Paul's Notes (Paul Dawkins at Lamar University)/Calculus_Cheat_Sheet_All.pdf",
-    "Assets/Paul's Notes (Paul Dawkins at Lamar University)/Common_Math_Errors.pdf",
-    "Assets/Paul's Notes (Paul Dawkins at Lamar University)/How_To_Study_Math.pdf",
-    "Assets/Paul's Notes (Paul Dawkins at Lamar University)/Laplace_Table.pdf",
-    "Assets/Paul's Notes (Paul Dawkins at Lamar University)/Trig_Cheat_Sheet.pdf",
-    "Assets/Textbooks/OpenStax - College Algebra 2e (Abramson) - 2021.pdf",
-    "Assets/Textbooks/OpenStax - Elementary Algebra 2e (Maracek, Honeycutt-Mathis) - 2020.pdf",
-    "Assets/Textbooks/OpenStax - Intermediate Algebra 2e (Maracek, Honeycutt-Mathis) - 2020.pdf",
-    "Assets/Textbooks/Zaigralin - Basic Algebra with Applications 6e - 2018 - Open Textbook Library.pdf",
-    "Assets/Textbooks/zaigralin-basic-algebra-with-applications-6e-2018-open-textbook-library.pdf",
-    "Assets/D--p_inequalities_diagram.jpg",
-    "Assets/Factoring.Whole.Numbers.Factor.Tree.Example.1.5.svg",
-    "Assets/gcse-maths-2015-specification.pdf",
-    "Assets/LaTeX Scratchpad.md",
-    "Assets/My reviews of free maths textbooks I've tried.md",
-    "Assets/Quadrilateral Summary.png",
-    "Assets/Symbols.md",
-    "Assets/US_Core_Standards_Maths.pdf",
+    "1 - Secondary/1-1 Algebra I/Review - Foundations to Polynomials.md",
     "About these pages.md",
     "index.md",
     "Notes to write up.md",
@@ -71,63 +71,48 @@
     "Revision.md",
     "Sticking points to revisit.md",
     "U.S Maths education.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff",
     "lib/media/quadrilateral-summary.png",
     "lib/media/factoring.whole.numbers.factor.tree.example.1.5.svg",
     "lib/media/d-p_inequalities_diagram.jpg",
-    "lib/scripts/graph-wasm.wasm",
-    "lib/fonts/94f2f163d4b698242fef.otf",
-    "lib/fonts/72505e6a122c6acd5471.woff2",
-    "lib/fonts/2d5198822ab091ce4305.woff2",
-    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
-    "lib/fonts/cb10ffd7684cd9836a05.woff2",
-    "lib/fonts/b5f0f109bc88052d4000.woff2",
-    "lib/fonts/cbe0ae49c52c920fd563.woff2",
-    "lib/fonts/535a6cf662596b3bd6a6.woff2",
-    "lib/fonts/70cc7ff27245e82ad414.ttf",
-    "lib/fonts/454577c22304619db035.ttf",
-    "lib/fonts/52ac8f3034507f1d9e53.ttf",
-    "lib/fonts/05b618077343fbbd92b7.ttf",
-    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "lib/media/874d8b8e340f75575caa.svg",
-    "lib/fonts/mathjax_zero.woff",
-    "lib/fonts/mathjax_main-regular.woff",
-    "lib/fonts/mathjax_main-bold.woff",
-    "lib/fonts/mathjax_math-italic.woff",
-    "lib/fonts/mathjax_main-italic.woff",
-    "lib/fonts/mathjax_math-bolditalic.woff",
-    "lib/fonts/mathjax_size1-regular.woff",
-    "lib/fonts/mathjax_size2-regular.woff",
-    "lib/fonts/mathjax_size3-regular.woff",
-    "lib/fonts/mathjax_size4-regular.woff",
-    "lib/fonts/mathjax_ams-regular.woff",
-    "lib/fonts/mathjax_calligraphic-regular.woff",
-    "lib/fonts/mathjax_calligraphic-bold.woff",
-    "lib/fonts/mathjax_fraktur-regular.woff",
-    "lib/fonts/mathjax_fraktur-bold.woff",
-    "lib/fonts/mathjax_sansserif-regular.woff",
-    "lib/fonts/mathjax_sansserif-bold.woff",
-    "lib/fonts/mathjax_sansserif-italic.woff",
-    "lib/fonts/mathjax_script-regular.woff",
-    "lib/fonts/mathjax_typewriter-regular.woff",
-    "lib/fonts/mathjax_vector-regular.woff",
-    "lib/fonts/mathjax_vector-bold.woff",
-    "lib/html/file-tree.html",
-    "lib/scripts/webpage.js",
-    "lib/scripts/graph-view.js",
-    "lib/scripts/graph-wasm.js",
-    "lib/scripts/graph-render-worker.js",
-    "lib/scripts/tinycolor.js",
-    "lib/scripts/pixi.js",
-    "lib/scripts/minisearch.js",
-    "lib/media/favicon.png",
-    "lib/scripts/graph-data.js",
-    "lib/styles/obsidian.css",
-    "lib/styles/theme.css",
-    "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css"
+    "lib/media/d-g-exponent-help.jpg"
   ],
   "mainDependencies": [
-    "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -142,762 +127,880 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
-    "lib/fonts/mathjax_zero.woff",
-    "lib/fonts/mathjax_main-regular.woff",
-    "lib/fonts/mathjax_main-bold.woff",
-    "lib/fonts/mathjax_math-italic.woff",
-    "lib/fonts/mathjax_main-italic.woff",
-    "lib/fonts/mathjax_math-bolditalic.woff",
-    "lib/fonts/mathjax_size1-regular.woff",
-    "lib/fonts/mathjax_size2-regular.woff",
-    "lib/fonts/mathjax_size3-regular.woff",
-    "lib/fonts/mathjax_size4-regular.woff",
-    "lib/fonts/mathjax_ams-regular.woff",
-    "lib/fonts/mathjax_calligraphic-regular.woff",
-    "lib/fonts/mathjax_calligraphic-bold.woff",
-    "lib/fonts/mathjax_fraktur-regular.woff",
-    "lib/fonts/mathjax_fraktur-bold.woff",
-    "lib/fonts/mathjax_sansserif-regular.woff",
-    "lib/fonts/mathjax_sansserif-bold.woff",
-    "lib/fonts/mathjax_sansserif-italic.woff",
-    "lib/fonts/mathjax_script-regular.woff",
-    "lib/fonts/mathjax_typewriter-regular.woff",
-    "lib/fonts/mathjax_vector-regular.woff",
-    "lib/fonts/mathjax_vector-bold.woff",
-    "lib/html/file-tree.html",
-    "lib/scripts/webpage.js",
-    "lib/scripts/graph-view.js",
-    "lib/scripts/graph-wasm.js",
-    "lib/scripts/graph-render-worker.js",
-    "lib/scripts/tinycolor.js",
-    "lib/scripts/pixi.js",
-    "lib/scripts/minisearch.js",
-    "lib/media/favicon.png",
-    "lib/scripts/graph-data.js",
-    "lib/styles/obsidian.css",
-    "lib/styles/theme.css",
-    "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css"
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
   ],
   "fileInfo": {
-    "0 - Primary/0-0 Arithmetic index.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 984,
-      "exportedPath": "0-primary/0-0-arithmetic-index.html",
-      "dependencies": []
-    },
-    "0 - Primary/0-1 Basic geometry index.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 2958,
-      "exportedPath": "0-primary/0-1-basic-geometry-index.html",
-      "dependencies": [
-        "lib/media/quadrilateral-summary.png"
-      ]
-    },
-    "1 - Secondary/1-0 Pre-algebra/1-0 Pre-algebra index.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 2867,
-      "exportedPath": "1-secondary/1-0-pre-algebra/1-0-pre-algebra-index.html",
-      "dependencies": []
-    },
-    "1 - Secondary/1-0 Pre-algebra/Adding and subtracting fractions.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 853,
-      "exportedPath": "1-secondary/1-0-pre-algebra/adding-and-subtracting-fractions.html",
-      "dependencies": []
-    },
-    "1 - Secondary/1-0 Pre-algebra/Dividing decimals.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 815,
-      "exportedPath": "1-secondary/1-0-pre-algebra/dividing-decimals.html",
-      "dependencies": []
-    },
-    "1 - Secondary/1-0 Pre-algebra/Dividing fractions.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 340,
-      "exportedPath": "1-secondary/1-0-pre-algebra/dividing-fractions.html",
-      "dependencies": []
-    },
-    "1 - Secondary/1-0 Pre-algebra/Divisibility rules for 2 - 12.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 2050,
-      "exportedPath": "1-secondary/1-0-pre-algebra/divisibility-rules-for-2-12.html",
-      "dependencies": []
-    },
-    "1 - Secondary/1-0 Pre-algebra/Exponents with a negative base.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 740,
-      "exportedPath": "1-secondary/1-0-pre-algebra/exponents-with-a-negative-base.html",
-      "dependencies": []
-    },
-    "1 - Secondary/1-0 Pre-algebra/Finding the greatest common divisor.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 471,
-      "exportedPath": "1-secondary/1-0-pre-algebra/finding-the-greatest-common-divisor.html",
-      "dependencies": []
-    },
-    "1 - Secondary/1-0 Pre-algebra/Finding the least common multiple.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 831,
-      "exportedPath": "1-secondary/1-0-pre-algebra/finding-the-least-common-multiple.html",
-      "dependencies": []
-    },
-    "1 - Secondary/1-0 Pre-algebra/Long division.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 298,
-      "exportedPath": "1-secondary/1-0-pre-algebra/long-division.html",
-      "dependencies": []
-    },
-    "1 - Secondary/1-0 Pre-algebra/Multiplying fractions.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 729,
-      "exportedPath": "1-secondary/1-0-pre-algebra/multiplying-fractions.html",
-      "dependencies": []
-    },
-    "1 - Secondary/1-0 Pre-algebra/Prime factorisation example.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 145,
-      "exportedPath": "1-secondary/1-0-pre-algebra/prime-factorisation-example.html",
-      "dependencies": [
-        "lib/media/factoring.whole.numbers.factor.tree.example.1.5.svg"
-      ]
-    },
-    "1 - Secondary/1-0 Pre-algebra/Properties of addition.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 644,
-      "exportedPath": "1-secondary/1-0-pre-algebra/properties-of-addition.html",
-      "dependencies": []
-    },
-    "1 - Secondary/1-0 Pre-algebra/Properties of division.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 562,
-      "exportedPath": "1-secondary/1-0-pre-algebra/properties-of-division.html",
-      "dependencies": []
-    },
-    "1 - Secondary/1-0 Pre-algebra/Properties of multiplication.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 1021,
-      "exportedPath": "1-secondary/1-0-pre-algebra/properties-of-multiplication.html",
-      "dependencies": []
-    },
-    "1 - Secondary/1-1 Algebra I/1-1 Algebra I index.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 1040,
-      "exportedPath": "1-secondary/1-1-algebra-i/1-1-algebra-i-index.html",
-      "dependencies": []
-    },
-    "1 - Secondary/1-1 Algebra I/An aside all about numbers.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 689,
-      "exportedPath": "1-secondary/1-1-algebra-i/an-aside-all-about-numbers.html",
-      "dependencies": []
-    },
-    "1 - Secondary/1-1 Algebra I/Functions.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 1059,
-      "exportedPath": "1-secondary/1-1-algebra-i/functions.html",
-      "dependencies": []
-    },
-    "1 - Secondary/1-1 Algebra I/Graphing equations and inequalities in two variables.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 5304,
-      "exportedPath": "1-secondary/1-1-algebra-i/graphing-equations-and-inequalities-in-two-variables.html",
-      "dependencies": [
-        "lib/media/d-p_inequalities_diagram.jpg"
-      ]
-    },
-    "1 - Secondary/1-1 Algebra I/Linear equations.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 5905,
-      "exportedPath": "1-secondary/1-1-algebra-i/linear-equations.html",
-      "dependencies": []
-    },
-    "1 - Secondary/1-1 Algebra I/Linear inequalities and interval notation.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 2150,
-      "exportedPath": "1-secondary/1-1-algebra-i/linear-inequalities-and-interval-notation.html",
-      "dependencies": []
-    },
-    "1 - Secondary/1-1 Algebra I/Linear Systems.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 2935,
-      "exportedPath": "1-secondary/1-1-algebra-i/linear-systems.html",
-      "dependencies": []
-    },
-    "1 - Secondary/1-1 Algebra I/Multiplying out decimals and fractions.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 534,
-      "exportedPath": "1-secondary/1-1-algebra-i/multiplying-out-decimals-and-fractions.html",
-      "dependencies": []
-    },
-    "1 - Secondary/1-1 Algebra I/Polynomials and Exponents.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 4785,
-      "exportedPath": "1-secondary/1-1-algebra-i/polynomials-and-exponents.html",
-      "dependencies": []
-    },
-    "3 - Undergraduate/Example Syllabus -  MIT BSc Pure Mathematics.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 5466,
-      "exportedPath": "3-undergraduate/example-syllabus-mit-bsc-pure-mathematics.html",
-      "dependencies": []
-    },
-    "3 - Undergraduate/Example Syllabus - Open University Q31 BSc Mathematics.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 4254,
-      "exportedPath": "3-undergraduate/example-syllabus-open-university-q31-bsc-mathematics.html",
-      "dependencies": []
-    },
-    "3 - Undergraduate/Learn LaTeX.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 393,
-      "exportedPath": "3-undergraduate/learn-latex.html",
-      "dependencies": []
-    },
-    "Assets/Open University/M140syllabus.pdf": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 43913,
-      "exportedPath": "assets/open-university/m140syllabus.pdf",
-      "dependencies": []
-    },
-    "Assets/Open University/M208syllabus.pdf": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 124359,
-      "exportedPath": "assets/open-university/m208syllabus.pdf",
-      "dependencies": []
-    },
-    "Assets/Open University/MST124syllabus.pdf": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 231634,
-      "exportedPath": "assets/open-university/mst124syllabus.pdf",
-      "dependencies": []
-    },
-    "Assets/Open University/MST125syllabus.pdf": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 158427,
-      "exportedPath": "assets/open-university/mst125syllabus.pdf",
-      "dependencies": []
-    },
-    "Assets/Open University/MST210syllabus (1).pdf": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 126628,
-      "exportedPath": "assets/open-university/mst210syllabus-(1).pdf",
-      "dependencies": []
-    },
-    "Assets/Open University/MST224syllabus.pdf": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 121389,
-      "exportedPath": "assets/open-university/mst224syllabus.pdf",
-      "dependencies": []
-    },
-    "Assets/Open University/MU123syllabus.pdf": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 121992,
-      "exportedPath": "assets/open-university/mu123syllabus.pdf",
-      "dependencies": []
-    },
-    "Assets/Oxford University/Part A Mathematics Synopses 2023-24.pdf": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 347823,
-      "exportedPath": "assets/oxford-university/part-a-mathematics-synopses-2023-24.pdf",
-      "dependencies": []
-    },
-    "Assets/Oxford University/Part B Mathematics Synopses 2023-24.pdf": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 474627,
-      "exportedPath": "assets/oxford-university/part-b-mathematics-synopses-2023-24.pdf",
-      "dependencies": []
-    },
-    "Assets/Oxford University/Part C 2023-24 Synopses.pdf": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 567729,
-      "exportedPath": "assets/oxford-university/part-c-2023-24-synopses.pdf",
-      "dependencies": []
-    },
-    "Assets/Oxford University/Prelims Mathematics Synopses 2023-24.pdf": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 322908,
-      "exportedPath": "assets/oxford-university/prelims-mathematics-synopses-2023-24.pdf",
-      "dependencies": []
-    },
-    "Assets/Paul's Notes (Paul Dawkins at Lamar University)/Algebra_Cheat_Sheet.pdf": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 189999,
-      "exportedPath": "assets/paul's-notes-(paul-dawkins-at-lamar-university)/algebra_cheat_sheet.pdf",
-      "dependencies": []
-    },
-    "Assets/Paul's Notes (Paul Dawkins at Lamar University)/Calculus_Cheat_Sheet_All.pdf": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 295561,
-      "exportedPath": "assets/paul's-notes-(paul-dawkins-at-lamar-university)/calculus_cheat_sheet_all.pdf",
-      "dependencies": []
-    },
-    "Assets/Paul's Notes (Paul Dawkins at Lamar University)/Common_Math_Errors.pdf": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 505528,
-      "exportedPath": "assets/paul's-notes-(paul-dawkins-at-lamar-university)/common_math_errors.pdf",
-      "dependencies": []
-    },
-    "Assets/Paul's Notes (Paul Dawkins at Lamar University)/How_To_Study_Math.pdf": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 319423,
-      "exportedPath": "assets/paul's-notes-(paul-dawkins-at-lamar-university)/how_to_study_math.pdf",
-      "dependencies": []
-    },
-    "Assets/Paul's Notes (Paul Dawkins at Lamar University)/Laplace_Table.pdf": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 137311,
-      "exportedPath": "assets/paul's-notes-(paul-dawkins-at-lamar-university)/laplace_table.pdf",
-      "dependencies": []
-    },
-    "Assets/Paul's Notes (Paul Dawkins at Lamar University)/Trig_Cheat_Sheet.pdf": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 188189,
-      "exportedPath": "assets/paul's-notes-(paul-dawkins-at-lamar-university)/trig_cheat_sheet.pdf",
-      "dependencies": []
-    },
-    "Assets/Textbooks/OpenStax - College Algebra 2e (Abramson) - 2021.pdf": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 84108130,
-      "exportedPath": "assets/textbooks/openstax-college-algebra-2e-(abramson)-2021.pdf",
-      "dependencies": []
-    },
-    "Assets/Textbooks/OpenStax - Elementary Algebra 2e (Maracek, Honeycutt-Mathis) - 2020.pdf": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 55432193,
-      "exportedPath": "assets/textbooks/openstax-elementary-algebra-2e-(maracek,-honeycutt-mathis)-2020.pdf",
-      "dependencies": []
-    },
-    "Assets/Textbooks/OpenStax - Intermediate Algebra 2e (Maracek, Honeycutt-Mathis) - 2020.pdf": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 76793192,
-      "exportedPath": "assets/textbooks/openstax-intermediate-algebra-2e-(maracek,-honeycutt-mathis)-2020.pdf",
-      "dependencies": []
-    },
-    "Assets/Textbooks/Zaigralin - Basic Algebra with Applications 6e - 2018 - Open Textbook Library.pdf": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 1581159,
-      "exportedPath": "assets/textbooks/zaigralin-basic-algebra-with-applications-6e-2018-open-textbook-library.pdf",
-      "dependencies": []
-    },
-    "Assets/Textbooks/zaigralin-basic-algebra-with-applications-6e-2018-open-textbook-library.pdf": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 1581159,
-      "exportedPath": "assets/textbooks/zaigralin-basic-algebra-with-applications-6e-2018-open-textbook-library.pdf",
-      "dependencies": []
-    },
-    "Assets/D--p_inequalities_diagram.jpg": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 106596,
-      "exportedPath": "assets/d-p_inequalities_diagram.jpg",
-      "dependencies": []
-    },
-    "Assets/Factoring.Whole.Numbers.Factor.Tree.Example.1.5.svg": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 13924,
-      "exportedPath": "assets/factoring.whole.numbers.factor.tree.example.1.5.svg",
-      "dependencies": []
-    },
-    "Assets/gcse-maths-2015-specification.pdf": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 1065520,
-      "exportedPath": "assets/gcse-maths-2015-specification.pdf",
-      "dependencies": []
-    },
-    "Assets/LaTeX Scratchpad.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 1359,
-      "exportedPath": "assets/latex-scratchpad.html",
-      "dependencies": []
-    },
-    "Assets/My reviews of free maths textbooks I've tried.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 1220,
-      "exportedPath": "assets/my-reviews-of-free-maths-textbooks-i've-tried.html",
-      "dependencies": []
-    },
-    "Assets/Quadrilateral Summary.png": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 40278,
-      "exportedPath": "assets/quadrilateral-summary.png",
-      "dependencies": []
-    },
-    "Assets/Symbols.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 956,
-      "exportedPath": "assets/symbols.html",
-      "dependencies": []
-    },
-    "Assets/US_Core_Standards_Maths.pdf": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 1242082,
-      "exportedPath": "assets/us_core_standards_maths.pdf",
-      "dependencies": []
-    },
-    "About these pages.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 3338,
-      "exportedPath": "about-these-pages.html",
-      "dependencies": []
-    },
-    "index.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 1276,
-      "exportedPath": "index.html",
-      "dependencies": []
-    },
-    "Notes to write up.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 21,
-      "exportedPath": "notes-to-write-up.html",
-      "dependencies": []
-    },
-    "Resources and materials.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 3641,
-      "exportedPath": "resources-and-materials.html",
-      "dependencies": []
-    },
-    "Revision.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 47,
-      "exportedPath": "revision.html",
-      "dependencies": []
-    },
-    "Sticking points to revisit.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 1110,
-      "exportedPath": "sticking-points-to-revisit.html",
-      "dependencies": []
-    },
-    "U.S Maths education.md": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 959,
-      "exportedPath": "u.s-maths-education.html",
-      "dependencies": []
-    },
-    "lib/media/quadrilateral-summary.png": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 40278,
-      "exportedPath": "lib/media/quadrilateral-summary.png",
-      "dependencies": []
-    },
-    "lib/media/factoring.whole.numbers.factor.tree.example.1.5.svg": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 13924,
-      "exportedPath": "lib/media/factoring.whole.numbers.factor.tree.example.1.5.svg",
-      "dependencies": []
-    },
-    "lib/media/d-p_inequalities_diagram.jpg": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 106596,
-      "exportedPath": "lib/media/d-p_inequalities_diagram.jpg",
-      "dependencies": []
-    },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722034020398,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722034020398,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722034020398,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722034020398,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722034020398,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722034020398,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722034020398,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722034020398,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722034020398,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722034020398,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722034020398,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722034020398,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722034020398,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722034020398,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 31870,
+      "modifiedTime": 1722033888040,
+      "sourceSize": 32281,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 3930,
+      "modifiedTime": 1722033888040,
+      "sourceSize": 3933,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1714951526975,
-      "sourceSize": 157786,
+      "modifiedTime": 1722033888040,
+      "sourceSize": 130208,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 7809,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1714951526975,
+      "modifiedTime": 1722033888040,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "_Assets/Open University/M140syllabus.pdf": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 43913,
+      "exportedPath": "_Assets/Open University/M140syllabus.pdf",
+      "dependencies": []
+    },
+    "_Assets/Open University/M208syllabus.pdf": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 124359,
+      "exportedPath": "_Assets/Open University/M208syllabus.pdf",
+      "dependencies": []
+    },
+    "_Assets/Open University/MST124syllabus.pdf": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 231634,
+      "exportedPath": "_Assets/Open University/MST124syllabus.pdf",
+      "dependencies": []
+    },
+    "_Assets/Open University/MST125syllabus.pdf": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 158427,
+      "exportedPath": "_Assets/Open University/MST125syllabus.pdf",
+      "dependencies": []
+    },
+    "_Assets/Open University/MST210syllabus (1).pdf": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 126628,
+      "exportedPath": "_Assets/Open University/MST210syllabus (1).pdf",
+      "dependencies": []
+    },
+    "_Assets/Open University/MST224syllabus.pdf": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 121389,
+      "exportedPath": "_Assets/Open University/MST224syllabus.pdf",
+      "dependencies": []
+    },
+    "_Assets/Open University/MU123syllabus.pdf": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 121992,
+      "exportedPath": "_Assets/Open University/MU123syllabus.pdf",
+      "dependencies": []
+    },
+    "_Assets/Oxford University/Part A Mathematics Synopses 2023-24.pdf": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 347823,
+      "exportedPath": "_Assets/Oxford University/Part A Mathematics Synopses 2023-24.pdf",
+      "dependencies": []
+    },
+    "_Assets/Oxford University/Part B Mathematics Synopses 2023-24.pdf": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 474627,
+      "exportedPath": "_Assets/Oxford University/Part B Mathematics Synopses 2023-24.pdf",
+      "dependencies": []
+    },
+    "_Assets/Oxford University/Part C 2023-24 Synopses.pdf": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 567729,
+      "exportedPath": "_Assets/Oxford University/Part C 2023-24 Synopses.pdf",
+      "dependencies": []
+    },
+    "_Assets/Oxford University/Prelims Mathematics Synopses 2023-24.pdf": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 322908,
+      "exportedPath": "_Assets/Oxford University/Prelims Mathematics Synopses 2023-24.pdf",
+      "dependencies": []
+    },
+    "_Assets/Paul's Notes (Paul Dawkins at Lamar University)/Algebra_Cheat_Sheet.pdf": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 189999,
+      "exportedPath": "_Assets/Paul's Notes (Paul Dawkins at Lamar University)/Algebra_Cheat_Sheet.pdf",
+      "dependencies": []
+    },
+    "_Assets/Paul's Notes (Paul Dawkins at Lamar University)/Calculus_Cheat_Sheet_All.pdf": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 295561,
+      "exportedPath": "_Assets/Paul's Notes (Paul Dawkins at Lamar University)/Calculus_Cheat_Sheet_All.pdf",
+      "dependencies": []
+    },
+    "_Assets/Paul's Notes (Paul Dawkins at Lamar University)/Common_Math_Errors.pdf": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 505528,
+      "exportedPath": "_Assets/Paul's Notes (Paul Dawkins at Lamar University)/Common_Math_Errors.pdf",
+      "dependencies": []
+    },
+    "_Assets/Paul's Notes (Paul Dawkins at Lamar University)/How_To_Study_Math.pdf": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 319423,
+      "exportedPath": "_Assets/Paul's Notes (Paul Dawkins at Lamar University)/How_To_Study_Math.pdf",
+      "dependencies": []
+    },
+    "_Assets/Paul's Notes (Paul Dawkins at Lamar University)/Laplace_Table.pdf": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 137311,
+      "exportedPath": "_Assets/Paul's Notes (Paul Dawkins at Lamar University)/Laplace_Table.pdf",
+      "dependencies": []
+    },
+    "_Assets/Paul's Notes (Paul Dawkins at Lamar University)/Trig_Cheat_Sheet.pdf": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 188189,
+      "exportedPath": "_Assets/Paul's Notes (Paul Dawkins at Lamar University)/Trig_Cheat_Sheet.pdf",
+      "dependencies": []
+    },
+    "_Assets/Textbooks/OpenStax - College Algebra 2e (Abramson) - 2021.pdf": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 84108130,
+      "exportedPath": "_Assets/Textbooks/OpenStax - College Algebra 2e (Abramson) - 2021.pdf",
+      "dependencies": []
+    },
+    "_Assets/Textbooks/OpenStax - Elementary Algebra 2e (Maracek, Honeycutt-Mathis) - 2020.pdf": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 55432193,
+      "exportedPath": "_Assets/Textbooks/OpenStax - Elementary Algebra 2e (Maracek, Honeycutt-Mathis) - 2020.pdf",
+      "dependencies": []
+    },
+    "_Assets/Textbooks/OpenStax - Intermediate Algebra 2e (Maracek, Honeycutt-Mathis) - 2020.pdf": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 76793192,
+      "exportedPath": "_Assets/Textbooks/OpenStax - Intermediate Algebra 2e (Maracek, Honeycutt-Mathis) - 2020.pdf",
+      "dependencies": []
+    },
+    "_Assets/Textbooks/Zaigralin - Basic Algebra with Applications 6e - 2018 - Open Textbook Library.pdf": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 1581159,
+      "exportedPath": "_Assets/Textbooks/Zaigralin - Basic Algebra with Applications 6e - 2018 - Open Textbook Library.pdf",
+      "dependencies": []
+    },
+    "_Assets/Textbooks/zaigralin-basic-algebra-with-applications-6e-2018-open-textbook-library.pdf": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 1581159,
+      "exportedPath": "_Assets/Textbooks/zaigralin-basic-algebra-with-applications-6e-2018-open-textbook-library.pdf",
+      "dependencies": []
+    },
+    "_Assets/D--g exponent help.jpg": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 1086131,
+      "exportedPath": "_Assets/D--g exponent help.jpg",
+      "dependencies": []
+    },
+    "_Assets/D--p_inequalities_diagram.jpg": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 106596,
+      "exportedPath": "_Assets/D--p_inequalities_diagram.jpg",
+      "dependencies": []
+    },
+    "_Assets/Example Syllabus -  MIT BSc Pure Mathematics.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 5466,
+      "exportedPath": "_Assets/Example Syllabus -  MIT BSc Pure Mathematics.html",
+      "dependencies": []
+    },
+    "_Assets/Factoring.Whole.Numbers.Factor.Tree.Example.1.5.svg": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 13924,
+      "exportedPath": "_Assets/Factoring.Whole.Numbers.Factor.Tree.Example.1.5.svg",
+      "dependencies": []
+    },
+    "_Assets/gcse-maths-2015-specification.pdf": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 1065520,
+      "exportedPath": "_Assets/gcse-maths-2015-specification.pdf",
+      "dependencies": []
+    },
+    "_Assets/LaTeX Scratchpad.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 1359,
+      "exportedPath": "_Assets/LaTeX Scratchpad.html",
+      "dependencies": []
+    },
+    "_Assets/My reviews of free maths textbooks I've tried.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 1220,
+      "exportedPath": "_Assets/My reviews of free maths textbooks I've tried.html",
+      "dependencies": []
+    },
+    "_Assets/Quadrilateral Summary.png": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 40278,
+      "exportedPath": "_Assets/Quadrilateral Summary.png",
+      "dependencies": []
+    },
+    "_Assets/Symbols.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 956,
+      "exportedPath": "_Assets/Symbols.html",
+      "dependencies": []
+    },
+    "_Assets/US_Core_Standards_Maths.pdf": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 1242082,
+      "exportedPath": "_Assets/US_Core_Standards_Maths.pdf",
+      "dependencies": []
+    },
+    "0 - Primary/0-0 Arithmetic index.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 984,
+      "exportedPath": "0 - Primary/0-0 Arithmetic index.html",
+      "dependencies": []
+    },
+    "0 - Primary/0-1 Basic geometry index.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 2958,
+      "exportedPath": "0 - Primary/0-1 Basic geometry index.html",
+      "dependencies": []
+    },
+    "1 - Secondary/1-0 Pre-algebra/1-0 Pre-algebra index.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 2867,
+      "exportedPath": "1 - Secondary/1-0 Pre-algebra/1-0 Pre-algebra index.html",
+      "dependencies": []
+    },
+    "1 - Secondary/1-0 Pre-algebra/Adding and subtracting fractions.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 853,
+      "exportedPath": "1 - Secondary/1-0 Pre-algebra/Adding and subtracting fractions.html",
+      "dependencies": []
+    },
+    "1 - Secondary/1-0 Pre-algebra/Dividing decimals.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 815,
+      "exportedPath": "1 - Secondary/1-0 Pre-algebra/Dividing decimals.html",
+      "dependencies": []
+    },
+    "1 - Secondary/1-0 Pre-algebra/Dividing fractions.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 340,
+      "exportedPath": "1 - Secondary/1-0 Pre-algebra/Dividing fractions.html",
+      "dependencies": []
+    },
+    "1 - Secondary/1-0 Pre-algebra/Divisibility rules for 2 - 12.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 2050,
+      "exportedPath": "1 - Secondary/1-0 Pre-algebra/Divisibility rules for 2 - 12.html",
+      "dependencies": []
+    },
+    "1 - Secondary/1-0 Pre-algebra/Exponents with a negative base.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 740,
+      "exportedPath": "1 - Secondary/1-0 Pre-algebra/Exponents with a negative base.html",
+      "dependencies": []
+    },
+    "1 - Secondary/1-0 Pre-algebra/Finding the greatest common divisor.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 471,
+      "exportedPath": "1 - Secondary/1-0 Pre-algebra/Finding the greatest common divisor.html",
+      "dependencies": []
+    },
+    "1 - Secondary/1-0 Pre-algebra/Finding the least common multiple.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 831,
+      "exportedPath": "1 - Secondary/1-0 Pre-algebra/Finding the least common multiple.html",
+      "dependencies": []
+    },
+    "1 - Secondary/1-0 Pre-algebra/Long division.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 298,
+      "exportedPath": "1 - Secondary/1-0 Pre-algebra/Long division.html",
+      "dependencies": []
+    },
+    "1 - Secondary/1-0 Pre-algebra/Multiplying fractions.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 729,
+      "exportedPath": "1 - Secondary/1-0 Pre-algebra/Multiplying fractions.html",
+      "dependencies": []
+    },
+    "1 - Secondary/1-0 Pre-algebra/Prime factorisation example.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 145,
+      "exportedPath": "1 - Secondary/1-0 Pre-algebra/Prime factorisation example.html",
+      "dependencies": []
+    },
+    "1 - Secondary/1-0 Pre-algebra/Properties of addition.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 644,
+      "exportedPath": "1 - Secondary/1-0 Pre-algebra/Properties of addition.html",
+      "dependencies": []
+    },
+    "1 - Secondary/1-0 Pre-algebra/Properties of division.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 562,
+      "exportedPath": "1 - Secondary/1-0 Pre-algebra/Properties of division.html",
+      "dependencies": []
+    },
+    "1 - Secondary/1-0 Pre-algebra/Properties of multiplication.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 1021,
+      "exportedPath": "1 - Secondary/1-0 Pre-algebra/Properties of multiplication.html",
+      "dependencies": []
+    },
+    "1 - Secondary/1-1 Algebra I/1-1 Algebra I index.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 1040,
+      "exportedPath": "1 - Secondary/1-1 Algebra I/1-1 Algebra I index.html",
+      "dependencies": []
+    },
+    "1 - Secondary/1-1 Algebra I/An aside all about numbers.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 689,
+      "exportedPath": "1 - Secondary/1-1 Algebra I/An aside all about numbers.html",
+      "dependencies": []
+    },
+    "1 - Secondary/1-1 Algebra I/Functions.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 1059,
+      "exportedPath": "1 - Secondary/1-1 Algebra I/Functions.html",
+      "dependencies": []
+    },
+    "1 - Secondary/1-1 Algebra I/Graphing equations and inequalities in two variables.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 5304,
+      "exportedPath": "1 - Secondary/1-1 Algebra I/Graphing equations and inequalities in two variables.html",
+      "dependencies": []
+    },
+    "1 - Secondary/1-1 Algebra I/Linear equations.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 5905,
+      "exportedPath": "1 - Secondary/1-1 Algebra I/Linear equations.html",
+      "dependencies": []
+    },
+    "1 - Secondary/1-1 Algebra I/Linear inequalities and interval notation.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 2150,
+      "exportedPath": "1 - Secondary/1-1 Algebra I/Linear inequalities and interval notation.html",
+      "dependencies": []
+    },
+    "1 - Secondary/1-1 Algebra I/Linear Systems.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 2935,
+      "exportedPath": "1 - Secondary/1-1 Algebra I/Linear Systems.html",
+      "dependencies": []
+    },
+    "1 - Secondary/1-1 Algebra I/Multiplying out decimals and fractions.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 534,
+      "exportedPath": "1 - Secondary/1-1 Algebra I/Multiplying out decimals and fractions.html",
+      "dependencies": []
+    },
+    "1 - Secondary/1-1 Algebra I/Polynomials and Exponents.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 5099,
+      "exportedPath": "1 - Secondary/1-1 Algebra I/Polynomials and Exponents.html",
+      "dependencies": []
+    },
+    "1 - Secondary/1-1 Algebra I/Review - Foundations to Polynomials.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 0,
+      "exportedPath": "1 - Secondary/1-1 Algebra I/Review - Foundations to Polynomials.html",
+      "dependencies": []
+    },
+    "About these pages.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 4506,
+      "exportedPath": "About these pages.html",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 625,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "Notes to write up.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 21,
+      "exportedPath": "Notes to write up.html",
+      "dependencies": []
+    },
+    "Resources and materials.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 3829,
+      "exportedPath": "Resources and materials.html",
+      "dependencies": []
+    },
+    "Revision.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 47,
+      "exportedPath": "Revision.html",
+      "dependencies": []
+    },
+    "Sticking points to revisit.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 1110,
+      "exportedPath": "Sticking points to revisit.html",
+      "dependencies": []
+    },
+    "U.S Maths education.md": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 968,
+      "exportedPath": "U.S Maths education.html",
+      "dependencies": []
+    },
+    "lib/media/quadrilateral-summary.png": {
+      "modifiedTime": 1722033888040,
+      "sourceSize": 40278,
+      "exportedPath": "lib/media/quadrilateral-summary.png",
+      "dependencies": []
+    },
+    "lib/media/factoring.whole.numbers.factor.tree.example.1.5.svg": {
+      "modifiedTime": 1722033888040,
+      "sourceSize": 13924,
+      "exportedPath": "lib/media/factoring.whole.numbers.factor.tree.example.1.5.svg",
+      "dependencies": []
+    },
+    "lib/media/d-p_inequalities_diagram.jpg": {
+      "modifiedTime": 1722033888040,
+      "sourceSize": 106596,
+      "exportedPath": "lib/media/d-p_inequalities_diagram.jpg",
+      "dependencies": []
+    },
+    "lib/media/d-g-exponent-help.jpg": {
+      "modifiedTime": 1722033888040,
+      "sourceSize": 1086131,
+      "exportedPath": "lib/media/d-g-exponent-help.jpg",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Zero.woff": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/MathJax_Zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Regular.woff": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Bold.woff": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-Italic.woff": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Italic.woff": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-BoldItalic.woff": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size1-Regular.woff": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size2-Regular.woff": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size3-Regular.woff": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size4-Regular.woff": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_AMS-Regular.woff": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Regular.woff": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Bold.woff": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Regular.woff": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Bold.woff": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Regular.woff": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Bold.woff": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Italic.woff": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Script-Regular.woff": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Typewriter-Regular.woff": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Regular.woff": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Bold.woff": {
+      "modifiedTime": 1722034020398,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
       "dependencies": []
     }
   }
